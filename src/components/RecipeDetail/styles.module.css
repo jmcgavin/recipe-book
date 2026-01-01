@@ -1,0 +1,28 @@
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.backToRecipesLink {
+  display: block;
+  width: fit-content;
+  margin-bottom: 16px;
+}
+
+.ingredientsAndSteps {
+  display: flex;
+  gap: 64px;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #959595;
+}
+
+@media (max-width: 768px) {
+  .ingredientsAndSteps {
+    display: block;
+  }
+}
+
+
