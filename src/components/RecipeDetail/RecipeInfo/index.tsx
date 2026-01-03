@@ -1,5 +1,5 @@
 import { type Token } from 'marked'
-import React from 'react'
+import { Fragment, useMemo } from 'react'
 
 import styles from './styles.module.css'
 import { isListItemToken, isListToken, isTextToken } from '../../../utils/marked'
@@ -41,15 +41,15 @@ type Props = {
 }
 
 const RecipeInfo = ({ tokens }: Props) => {
-  const recipeInfoData = extractRecipeInfoData(tokens)
+  const recipeInfoData = useMemo(() => extractRecipeInfoData(tokens), [tokens])
 
   return (
     <section className={styles.container}>
       {Object.entries(recipeInfoData).map(([label, values]) => (
-        <React.Fragment key={label}>
+        <Fragment key={label}>
           <p className={styles.bold}>{label}</p>
           <p>{values.join(', ')}</p>
-        </React.Fragment>
+        </Fragment>
       ))}
     </section>
   )

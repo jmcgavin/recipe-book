@@ -30,20 +30,20 @@ const RecipeList = () => {
           const content = await importFn()
           const tokens = marked.lexer(content)
 
-          const headerToken = tokens.find(
+          const h1Token = tokens.find(
             token => token.type === 'heading' && token.depth === 1
           )
-          
-          if (headerToken && 'text' in headerToken && typeof headerToken.text === 'string') {
-            const fileName = path.replace(/^.*\/(.+)\.md$/, '$1')
-            const title = headerToken.text
 
-            if (!fileName) {
+          if (h1Token && 'text' in h1Token && typeof h1Token.text === 'string') {
+            const recipeId = path.replace(/^.*\/(.+)\.md$/, '$1')
+            const recipeTitle = h1Token.text
+
+            if (!recipeId) {
               throw new Error(`Invalid file path: ${path}`)
             } else {
               recipeHeaders.push({
-                id: fileName,
-                title,
+                id: recipeId,
+                title: recipeTitle,
               })
             }
           }

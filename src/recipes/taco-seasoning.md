@@ -7,7 +7,7 @@ Basic taco/fajita seasoning.
 
 ## Ingredients
 * 1 tbsp chili powder
-* 2 tsp cumin
+* 2 tsp ground cumin
 * 1 tsp black pepper
 * 1 tsp salt
 * ½ tsp paprika

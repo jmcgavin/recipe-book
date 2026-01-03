@@ -1,4 +1,5 @@
 import { type Token, marked } from 'marked'
+import { useMemo } from 'react'
 
 import styles from './styles.module.css'
 
@@ -8,7 +9,7 @@ type Props = {
 
 const RecipeSteps = ({ tokens }: Props) => {
   // console.log('Steps tokens', tokens)
-  const html = marked.parser(tokens)
+  const html = useMemo(() => marked.parser(tokens), [tokens])
 
   return (
     <section className={styles.section} dangerouslySetInnerHTML={{ __html: html }} />

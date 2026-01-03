@@ -52,7 +52,6 @@ const RecipeDetail = () => {
 
         const tokens = marked.lexer(markdown)
         const sectionTokens = tokensToSections(tokens)
-        // console.log('Section Tokens', sectionTokens)
 
         setRecipeSectionTokens(sectionTokens)
       } catch (err) {
@@ -130,14 +129,14 @@ const RecipeDetail = () => {
   return (
     <div className={styles.container}>
       <Link to="/" className={styles.backToRecipesLink}>← Back to Recipes</Link>
-      {image && <img src={image} alt={id} width="100%" />}
+      {image && <img className={styles.image} src={image} alt={id} />}
       {recipeSectionTokens.title && <RecipeTitle tokens={recipeSectionTokens.title} />}
       {recipeSectionTokens.info && <RecipeInfo tokens={recipeSectionTokens.info} />}
       <div className={styles.ingredientsAndSteps}>
         {recipeSectionTokens.ingredients && <RecipeIngredients tokens={recipeSectionTokens.ingredients} />}
         {recipeSectionTokens.steps && <RecipeSteps tokens={recipeSectionTokens.steps} />}
       </div>
-      {(!!recipeSectionTokens.notes || !!recipeSectionTokens.references) && <hr />}
+      {(!!recipeSectionTokens.notes || !!recipeSectionTokens.references) && <hr className={styles.divider} />}
       {recipeSectionTokens.notes && <RecipeNotes tokens={recipeSectionTokens.notes} />}
       {recipeSectionTokens.references && <RecipeReferences tokens={recipeSectionTokens.references} />}
     </div>

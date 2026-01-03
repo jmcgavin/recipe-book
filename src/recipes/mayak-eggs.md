@@ -7,16 +7,16 @@
 ## Ingredients
 * 6 large eggs (room temperature)
 * 1 tbsp each salt and white vinegar (for boiling the eggs)
-* green onions, seaweed flakes, and/or sesame oil (for garnish, optional)
+* Green onions, seaweed flakes, and/or sesame oil (for garnish, optional)
 
 Marinade
 * ½ cup soy sauce
 * ½ cup water
 * ¼ cup honey, corn syrup, oligo syrup, or your choice of liquid sweetener
-* ¼ medium onion diced
+* ¼ medium onion, diced
 * 1 green onion diced
-* 3 cloves garlic minced
-* 2 chili pepper diced
+* 3 cloves garlic, minced
+* 2 chili pepper, diced
 * 1 tbsp toasted sesame seeds
 
 ## Steps
@@ -28,3 +28,6 @@ Marinade
 
 ## Notes
 * These marinated eggs will last about 3-4 days in the fridge.
+
+## References
+* https://www.cookerru.com/mayak-eggs/

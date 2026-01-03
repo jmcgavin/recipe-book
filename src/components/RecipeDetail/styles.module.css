@@ -9,12 +9,18 @@
   margin-bottom: 16px;
 }
 
+.image {
+  width: auto;
+  max-height: 500px;
+}
+
 .ingredientsAndSteps {
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
   gap: 64px;
 }
 
-hr {
+.divider {
   border: none;
   border-top: 1px solid #959595;
 }
