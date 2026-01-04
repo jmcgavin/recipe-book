@@ -15,7 +15,7 @@
 - 2 tsp cumin seeds
 - ⅓ cup water
 - ¼ cup tahini
-- ½ lime, juiced
+- Juice of ½ lime
 - Salt and pepper
 - Naan (for serving)
 

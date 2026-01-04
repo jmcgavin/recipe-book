@@ -12,7 +12,7 @@
 ## Ingredients
 
 - 450g ground beef
-- 2 spicy Italian sausages
+- 2 spicy Italian sausages, casings removed
 - 1 can (796ml) diced tomatoes
 - 1 can (540ml) seasoned, diced tomatoes (I use Aylmer Accents with chili seasonings)
 - 1 can kidney beans
@@ -32,13 +32,12 @@
 
 ## Steps
 
-1. Remove sausage meat from casings and prep your vegetables.
-2. Heat 1 tbsp of olive oil in a large dutch oven (or heavy-bottom stock pot) over medium-high heat. Add ground beef, sausage meat and garlic. Break apart the meat as it cooks.
-3. Once meat is fully cooked, remove from pot and set aside. Add the remaining 1 tbsp of olive oil to the pot.
-4. Add the onion, bell pepper and carrot and sauté for a few minutes until vegetables begin to soften.
-5. Add kidney beans and both cans of tomatoes and bring to a simmer.
-6. Reduce heat to low and add the remaining ingredients.
-7. Simmer for 4 hours with the lid ajar, stiring occasionally.
+1. Heat 1 tbsp of olive oil in a large Dutch oven (or heavy-bottom stock pot) over medium-high heat. Add ground beef, sausage meat and garlic. Break apart the meat as it cooks.
+2. Once meat is fully cooked, remove from pot and set aside. Add the remaining 1 tbsp of olive oil to the pot.
+3. Add the onion, bell pepper and carrot and sauté for a few minutes until vegetables begin to soften.
+4. Add kidney beans and both cans of tomatoes and bring to a simmer.
+5. Reduce heat to low and add the remaining ingredients.
+6. Simmer for 4 hours with the lid ajar, stirring occasionally.
 
 ## Notes
 

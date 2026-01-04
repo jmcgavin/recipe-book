@@ -8,8 +8,8 @@
 ## Ingredients
 
 - 10 mini cucumbers, cut into spears
-- 1 ½ cups water
-- 1 ½ cups pickling vinegar (white vinegar is fine)
+- 1½ cups water
+- 1½ cups pickling vinegar (white vinegar is fine)
 - 5 tsp kosher salt
 
 Spicy Pickles

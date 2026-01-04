@@ -61,7 +61,7 @@ const RecipeDetail = () => {
       try {
         const imageModules = import.meta.glob<string>('../../images/*', { import: 'default' })
 
-        const extensions = ['jpg', 'JPG', 'jpeg', 'JPEG', 'png', 'PNG', 'gif', 'GIF', 'webp', 'WEBP', 'svg', 'SVG']
+        const extensions = ['jpg', 'JPG', 'jpeg', 'JPEG', 'png', 'PNG', 'gif', 'GIF', 'webp', 'WEBP']
         let imgUrl: string | null = null
 
         for (const ext of extensions) {

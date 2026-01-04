@@ -1,4 +1,4 @@
-# Chicken Salad
+# Chicken Salad Sandwich
 
 ## Info
 
