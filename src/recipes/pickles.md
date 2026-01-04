@@ -4,6 +4,10 @@
 
 - Time
   - 20 minutes
+- Tags
+  - Side dish
+  - Vegan
+  - Vegetarian
 
 ## Ingredients
 

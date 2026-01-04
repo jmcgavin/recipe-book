@@ -5,7 +5,11 @@
 - Time
   - 30 minutes
 - Makes
-  - 2 servings
+  - 2-4 servings
+- Tags
+  - Main course
+  - Vegan
+  - Vegetarian
 
 ## Ingredients
 
@@ -17,8 +21,8 @@
 - ½ cup neutral oil
 - 2 scallions, chopped, for garnish
 - 1 tsp sesame seeds, for garnish
-- Rice, for serving
-- Broccoli, for serving
+- Rice (for serving)
+- Broccoli (for serving)
 
 Spicy honey garlic glaze
 - 1 tbsp neutral oil

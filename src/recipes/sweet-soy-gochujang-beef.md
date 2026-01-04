@@ -6,6 +6,7 @@ Korean-inspired braised beef.
 - Time
   - 4 hours
 - Tags
+  - Main course
   - Slow cooker
 
 ## Ingredients
@@ -13,14 +14,13 @@ Korean-inspired braised beef.
 - 1kg beef chuck, cut into bite-sized chunks
 - 1 onion, diced
 - 4 cloves garlic, minced
-- 4 tbsp soy sauce
+- 1 tbsp fresh ginger, finely grated
 - 4 tbsp soy sauce
 - 3 tbsp gochujang
 - 2 tbsp sesame oil
 - 2 tbsp honey
 - 1 tbsp rice vinegar
-- 1 tbsp fresh ginger, finely grated
-- Rice, for serving
+- Rice (for serving)
 
 ## Steps
 

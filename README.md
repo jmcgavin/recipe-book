@@ -27,4 +27,9 @@ I've spent years gathering and collecting recipes from a variety of different ph
 - **Marked** - Markdown parsing
 - **CSS Modules** - Scoped styling
 
+## TODO
+
+- Search recipes by name
+- Filter recipes by tags
+
 Happy cooking! 🍳

@@ -5,9 +5,7 @@
 - Time
   - 30 minutes
 - Makes
-  - 5 servings
-- Macros
-  - Per serving: 510 Calories, 42g Protein, 60g Carbs, 13g Fat
+  - 4-6 servings
 
 ## Ingredients
 
@@ -32,7 +30,7 @@ Peanut sauce
 
 ## Steps
 
-1. Add diced chicken and marinade ingredients to a bowl and stir to combine.
+1. Add diced chicken and marinade ingredients to a bowl and toss to combine.
 2. Heat oil in a pan over medium-high heat and add chicken.
 3. Once the chicken is 80% cooked, add the garlic and the whites of the green onions and finish cooking the chicken.
 4. Once chicken is fully-cooked, remove from pan and set aside.

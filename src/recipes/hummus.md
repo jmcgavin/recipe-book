@@ -4,10 +4,14 @@
 
 - Time
   - 10 minutes
+- Tags
+  - Side dish
+  - Vegan
+  - Vegetarian
 
 ## Ingredients
 
-- 1 can chickpeas (including half the liquid/aquafaba)
+- 1 can (540ml) chickpeas (including half the liquid/aquafaba)
 - 1 clove garlic
 - ¼ cup tahini
 - ¼ cup lemon juice

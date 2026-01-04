@@ -5,9 +5,10 @@
 - Time
   - 4.5 hours
 - Makes
-  - ? servings
+  - 6 servings
 - Tags
-  - Freezes well
+  - Freezable
+  - Main course
 
 ## Ingredients
 
@@ -15,13 +16,13 @@
 - 2 spicy Italian sausages, casings removed
 - 1 can (796ml) diced tomatoes
 - 1 can (540ml) seasoned, diced tomatoes (I use Aylmer Accents with chili seasonings)
-- 1 can kidney beans
+- 1 can (540ml) kidney beans
 - 1 large onion, diced
 - 1 green bell pepper, diced
 - 1 large carrot, chopped
 - 1 clove garlic, minced
-- 1 packet chili seasoning mix (I use Old El Paso)
-- 1 packet ranch dressing mix (I use Club House ranch style mix)
+- 1 packet chili seasoning mix
+- 1 packet ranch dressing mix
 - 2 tbsp cocoa powder
 - 2 tbsp olive oil
 - 1 tbsp brown sugar

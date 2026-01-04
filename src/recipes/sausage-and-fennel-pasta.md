@@ -7,6 +7,9 @@ Sausage, leek and fennel pasta with lemon, garlic and chilli.
   - 30 minutes
 - Makes
   - 4 servings
+- Tags
+  - Main course
+  - Pasta
 
 ## Ingredients
 
@@ -14,6 +17,7 @@ Sausage, leek and fennel pasta with lemon, garlic and chilli.
 - 1 medium fennel, stalks and fonds removed
 - 1 large leek, quartered then chopped (rinse to remove any residual dirt/sand)
 - Pasta of choice (penne works great)
+- 1 tbsp neutral oil
 - 2 cloves garlic, thinly sliced
 - 1-2 chili peppers, finely chopped (optional)
 - ½ cup white wine (for deglazing)
@@ -27,7 +31,7 @@ Sausage, leek and fennel pasta with lemon, garlic and chilli.
 ## Steps
 
 1. Begin by preparing the fennel bulb, using a vegetable peeler to remove any bruised/dirty spots. Next, trim off the root end of the bulb and dice into small cubes (like you would an onion).
-2. In a large Dutch oven (or heavy-bottom stock pot) over medium-high heat add 1 tbsp of olive oil and fry the sausage meat while breaking it up into bite-sized pieces.
+2. In a large Dutch oven (or heavy-bottom stock pot) over medium-high heat add 1 tbsp of oil and fry the sausage meat while breaking it up into bite-sized pieces.
 3. Once the sausage is cooked, remove from pot and set aside. Deglaze the pot with white wine then add the chopped fennel and leek and season to taste with salt.
 4. In another pot, bring salted water to a boil and begin cooking your pasta.
 5. Once the vegetables begin to soften, add the garlic, chili and fennel seeds.

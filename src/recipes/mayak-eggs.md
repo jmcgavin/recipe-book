@@ -4,6 +4,9 @@
 
 - Time
   - 25 minutes
+- Tags
+  - Side dish
+  - Vegetarian
 
 ## Ingredients
 
@@ -15,7 +18,7 @@ Marinade
 
 - ½ cup soy sauce
 - ½ cup water
-- ¼ cup honey, corn syrup, oligo syrup, or your choice of liquid sweetener
+- ¼ cup honey
 - ¼ medium onion, diced
 - 1 green onion diced
 - 3 cloves garlic, minced

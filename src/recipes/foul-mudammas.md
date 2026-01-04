@@ -4,10 +4,14 @@
 
 - Time
   - 30 minutes
+- Tags
+  - Side dish
+  - Vegan
+  - Vegetarian
 
 ## Ingredients
 
-- 1 can fava beans, rinsed and drained
+- 1 can (540ml) fava beans, rinsed and drained
 - 1 small red onion, diced
 - 1 roma tomato, diced
 - 1 tbsp olive oil (plus more for serving)

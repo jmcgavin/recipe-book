@@ -5,11 +5,14 @@
 - Time
   - 4 hours
 - Makes
-  - ? servings
+  - 4-6 servings
+- Tags
+  - Main course
 
 ## Ingredients
 
 - 2 lbs chicken thighs, tenderized
+- 1 large yellow onion
 - Tzatziki sauce (for serving)
 
 Sauce
@@ -25,12 +28,11 @@ Sauce
 - ½ tsp cayenne pepper
 - 1 tsp cinnamon
 - 1 tsp black pepper
-- 1 large yellow onion
 
 Rice
 
 - 2 tbsp unsalted butter
-- ½ tsp turmeric
+- ½ tsp ground turmeric
 - ¼ tsp ground cumin
 - 1½ cups long-grain or Basmati rice
 - 2½ cups chicken broth
