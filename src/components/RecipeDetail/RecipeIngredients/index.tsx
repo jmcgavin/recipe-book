@@ -16,17 +16,15 @@ const marked = new Marked({
   renderer: {
     text(token) {
       return wrapParentheses(token.text)
-    }
-  }
+    },
+  },
 })
 
 const RecipeIngredients = ({ tokens }: Props) => {
   // console.log('Ingredients tokens', tokens)
   const html = marked.parser(tokens)
 
-  return (
-    <section className={styles.container} dangerouslySetInnerHTML={{ __html: html }} />
-  )
+  return <section className={styles.container} dangerouslySetInnerHTML={{ __html: html }} />
 }
 
 export default RecipeIngredients

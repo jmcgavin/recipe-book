@@ -1,38 +1,43 @@
-# Jordan's Chicken Shawarma and Rice
+# Chicken Shawarma and Rice
 
 ## Info
-* Time
-  * 4 hours
-* Makes
-  * ? servings
+
+- Time
+  - 4 hours
+- Makes
+  - ? servings
 
 ## Ingredients
-* 2 lbs chicken thighs, tenderized
-* Tzatziki sauce (for serving)
+
+- 2 lbs chicken thighs, tenderized
+- Tzatziki sauce (for serving)
 
 Sauce
-* 2 cups plain Greek yogurt
-* ¼ cup lemon juice
-* ½ cup olive oil
-* 1 tbsp salt
-* 1 clove garlic, minced
-* 1 tbsp ground coriander
-* 1 tbsp paprika
-* 1 tbsp ground cumin
-* ½ tsp cayenne pepper
-* 1 tsp cinnamon
-* 1 tsp black pepper
-* 1 large yellow onion
+
+- 2 cups plain Greek yogurt
+- ¼ cup lemon juice
+- ½ cup olive oil
+- 1 tbsp salt
+- 1 clove garlic, minced
+- 1 tbsp ground coriander
+- 1 tbsp paprika
+- 1 tbsp ground cumin
+- ½ tsp cayenne pepper
+- 1 tsp cinnamon
+- 1 tsp black pepper
+- 1 large yellow onion
 
 Rice
-* 2 tbsp unsalted butter
-* ½ tsp turmeric
-* ¼ tsp ground cumin
-* 1 ½ cups long-grain or Basmati rice
-* 2 ½ cups chicken broth
-* Salt and pepper
+
+- 2 tbsp unsalted butter
+- ½ tsp turmeric
+- ¼ tsp ground cumin
+- 1 ½ cups long-grain or Basmati rice
+- 2 ½ cups chicken broth
+- Salt and pepper
 
 ## Steps
+
 Sauce
 
 1. Mix all sauce ingredients together.
@@ -43,7 +48,7 @@ Sauce
 Rice
 
 1. Melt the butter over medium heat in a large Dutch oven. Add the turmeric and cumin and cook until fragrant but not browned, about 1 minute.
-2. Add the rice and stir to coat. Cook, stirring frequently, until the rice is lightly toasted, about 4 minutes.
+2. Add the rice and stir to coat. Cook, stiring frequently, until the rice is lightly toasted, about 4 minutes.
 3. Add the chicken broth. Season to taste with salt and pepper.
 4. Raise the heat to high and bring to a boil. Cover, reduce to a simmer, and cook for 5. minutes without disturbing. Remove from heat and allow to rest until the water is completely absorbed and the rice is tender, about 10 minutes.
 

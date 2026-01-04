@@ -15,10 +15,7 @@ const RecipeList = () => {
   useEffect(() => {
     const loadRecipeHeaders = async () => {
       try {
-        const recipeModules = import.meta.glob<string>(
-          '../../recipes/*.md',
-          { query: '?raw', import: 'default' }
-        )
+        const recipeModules = import.meta.glob<string>('../../recipes/*.md', { query: '?raw', import: 'default' })
 
         if (Object.keys(recipeModules).length === 0) {
           throw new Error('No recipes found')
@@ -30,9 +27,7 @@ const RecipeList = () => {
           const content = await importFn()
           const tokens = marked.lexer(content)
 
-          const h1Token = tokens.find(
-            token => token.type === 'heading' && token.depth === 1
-          )
+          const h1Token = tokens.find((token) => token.type === 'heading' && token.depth === 1)
 
           if (h1Token && 'text' in h1Token && typeof h1Token.text === 'string') {
             const recipeId = path.replace(/^.*\/(.+)\.md$/, '$1')
@@ -63,7 +58,9 @@ const RecipeList = () => {
 
   return (
     <>
-      <h1 className={styles.header}><img src={cookbookIcon} alt="Cookbook" /> Jordan&apos;s Recipes</h1>
+      <h1 className={styles.header}>
+        <img src={cookbookIcon} alt='Cookbook' /> Jordan&apos;s Recipes
+      </h1>
       <ul>
         {headers.map(({ id, title }) => (
           <li key={id}>

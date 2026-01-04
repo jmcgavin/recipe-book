@@ -33,57 +33,60 @@ export const isTextToken = (token: Token): token is Tokens.Text => {
  */
 export const tokensToSections = (tokens: TokensList): RecipeSectionTokens => {
   let section = ''
-  const sectionTokens = tokens.reduce<RecipeSectionTokens>((acc, curr) => {
-    // Skip space tokens
-    if (curr.type === 'space') {
-      return acc
-    }
-
-    // Determine current section based on headings
-    if (curr.type === 'heading' && typeof curr.text === 'string') {
-      if (curr.depth === 1) {
-        section = RECIPE_SECTIONS.TITLE
-      } else {
-        section = curr.text.toLowerCase()
+  const sectionTokens = tokens.reduce<RecipeSectionTokens>(
+    (acc, curr) => {
+      // Skip space tokens
+      if (curr.type === 'space') {
+        return acc
       }
-    }
 
-    switch (section) {
-      case RECIPE_SECTIONS.TITLE:
-        if (!acc[RECIPE_SECTIONS.TITLE]) acc[RECIPE_SECTIONS.TITLE] = []
-        acc[RECIPE_SECTIONS.TITLE]!.push(curr)
-        break
-      case RECIPE_SECTIONS.INFO:
-        if (!acc[RECIPE_SECTIONS.INFO]) acc[RECIPE_SECTIONS.INFO] = []
-        acc[RECIPE_SECTIONS.INFO]!.push(curr)
-        break
-      case RECIPE_SECTIONS.INGREDIENTS:
-        if (!acc[RECIPE_SECTIONS.INGREDIENTS]) acc[RECIPE_SECTIONS.INGREDIENTS] = []
-        acc[RECIPE_SECTIONS.INGREDIENTS]!.push(curr)
-        break
-      case RECIPE_SECTIONS.STEPS:
-        if (!acc[RECIPE_SECTIONS.STEPS]) acc[RECIPE_SECTIONS.STEPS] = []
-        acc[RECIPE_SECTIONS.STEPS]!.push(curr)
-        break
-      case RECIPE_SECTIONS.NOTES:
-        if (!acc[RECIPE_SECTIONS.NOTES]) acc[RECIPE_SECTIONS.NOTES] = []
-        acc[RECIPE_SECTIONS.NOTES]!.push(curr)
-        break
-      case RECIPE_SECTIONS.REFERENCES:
-        if (!acc[RECIPE_SECTIONS.REFERENCES]) acc[RECIPE_SECTIONS.REFERENCES] = []
-        acc[RECIPE_SECTIONS.REFERENCES]!.push(curr)
-        break
-    }
+      // Determine current section based on headings
+      if (curr.type === 'heading' && typeof curr.text === 'string') {
+        if (curr.depth === 1) {
+          section = RECIPE_SECTIONS.TITLE
+        } else {
+          section = curr.text.toLowerCase()
+        }
+      }
 
-    return acc
-  }, {
-    [RECIPE_SECTIONS.TITLE]: null,
-    [RECIPE_SECTIONS.INFO]: null,
-    [RECIPE_SECTIONS.INGREDIENTS]: null,
-    [RECIPE_SECTIONS.STEPS]: null,
-    [RECIPE_SECTIONS.NOTES]: null,
-    [RECIPE_SECTIONS.REFERENCES]: null,
-  })
+      switch (section) {
+        case RECIPE_SECTIONS.TITLE:
+          if (!acc[RECIPE_SECTIONS.TITLE]) acc[RECIPE_SECTIONS.TITLE] = []
+          acc[RECIPE_SECTIONS.TITLE]!.push(curr)
+          break
+        case RECIPE_SECTIONS.INFO:
+          if (!acc[RECIPE_SECTIONS.INFO]) acc[RECIPE_SECTIONS.INFO] = []
+          acc[RECIPE_SECTIONS.INFO]!.push(curr)
+          break
+        case RECIPE_SECTIONS.INGREDIENTS:
+          if (!acc[RECIPE_SECTIONS.INGREDIENTS]) acc[RECIPE_SECTIONS.INGREDIENTS] = []
+          acc[RECIPE_SECTIONS.INGREDIENTS]!.push(curr)
+          break
+        case RECIPE_SECTIONS.STEPS:
+          if (!acc[RECIPE_SECTIONS.STEPS]) acc[RECIPE_SECTIONS.STEPS] = []
+          acc[RECIPE_SECTIONS.STEPS]!.push(curr)
+          break
+        case RECIPE_SECTIONS.NOTES:
+          if (!acc[RECIPE_SECTIONS.NOTES]) acc[RECIPE_SECTIONS.NOTES] = []
+          acc[RECIPE_SECTIONS.NOTES]!.push(curr)
+          break
+        case RECIPE_SECTIONS.REFERENCES:
+          if (!acc[RECIPE_SECTIONS.REFERENCES]) acc[RECIPE_SECTIONS.REFERENCES] = []
+          acc[RECIPE_SECTIONS.REFERENCES]!.push(curr)
+          break
+      }
+
+      return acc
+    },
+    {
+      [RECIPE_SECTIONS.TITLE]: null,
+      [RECIPE_SECTIONS.INFO]: null,
+      [RECIPE_SECTIONS.INGREDIENTS]: null,
+      [RECIPE_SECTIONS.STEPS]: null,
+      [RECIPE_SECTIONS.NOTES]: null,
+      [RECIPE_SECTIONS.REFERENCES]: null,
+    },
+  )
 
   return sectionTokens
 }

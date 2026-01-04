@@ -9,9 +9,7 @@ const RecipeReferences = ({ tokens }: Props) => {
   // console.log('References tokens', tokens)
   const html = useMemo(() => marked.parser(tokens), [tokens])
 
-  return (
-    <section dangerouslySetInnerHTML={{ __html: html }} />
-  )
+  return <section dangerouslySetInnerHTML={{ __html: html }} />
 }
 
 export default RecipeReferences

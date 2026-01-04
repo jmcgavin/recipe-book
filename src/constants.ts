@@ -4,5 +4,5 @@ export const RECIPE_SECTIONS = {
   INGREDIENTS: 'ingredients',
   STEPS: 'steps',
   NOTES: 'notes',
-  REFERENCES: 'references'
+  REFERENCES: 'references',
 } as const

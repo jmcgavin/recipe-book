@@ -1,6 +1,6 @@
-import { type Token } from "marked"
+import { type Token } from 'marked'
 
-import { RECIPE_SECTIONS } from "./constants"
+import { RECIPE_SECTIONS } from './constants'
 
 export type RecipeSectionTokens = {
   [RECIPE_SECTIONS.TITLE]: Token[] | null

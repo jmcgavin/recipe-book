@@ -9,9 +9,7 @@ const RecipeNotes = ({ tokens }: Props) => {
   // console.log('Notes tokens', tokens)
   const html = useMemo(() => marked.parser(tokens), [tokens])
 
-  return (
-    <section dangerouslySetInnerHTML={{ __html: html }} />
-  )
+  return <section dangerouslySetInnerHTML={{ __html: html }} />
 }
 
 export default RecipeNotes

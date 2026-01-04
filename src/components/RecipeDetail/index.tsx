@@ -13,7 +13,6 @@ import RecipeReferences from './RecipeReferences'
 import RecipeSteps from './RecipeSteps'
 import RecipeTitle from './RecipeTitle'
 
-
 const RecipeDetail = () => {
   const { id } = useParams<{ id: string }>()
   const [image, setImage] = useState<string | null>(null)
@@ -36,10 +35,7 @@ const RecipeDetail = () => {
           throw new Error('No recipe id provided')
         }
 
-        const recipeModules = import.meta.glob<string>(
-          '../../recipes/*.md',
-          { query: '?raw', import: 'default' }
-        )
+        const recipeModules = import.meta.glob<string>('../../recipes/*.md', { query: '?raw', import: 'default' })
 
         const modulePath = `../../recipes/${id}.md`
         const importFn = recipeModules[modulePath]
@@ -63,10 +59,7 @@ const RecipeDetail = () => {
 
     const loadImg = async () => {
       try {
-        const imageModules = import.meta.glob<string>(
-          '../../images/*',
-          { import: 'default' }
-        )
+        const imageModules = import.meta.glob<string>('../../images/*', { import: 'default' })
 
         const extensions = ['jpg', 'JPG', 'jpeg', 'JPEG', 'png', 'PNG', 'gif', 'GIF', 'webp', 'WEBP', 'svg', 'SVG']
         let imgUrl: string | null = null
@@ -128,7 +121,9 @@ const RecipeDetail = () => {
 
   return (
     <div className={styles.container}>
-      <Link to="/" className={styles.backToRecipesLink}>← Back to Recipes</Link>
+      <Link to='/' className={styles.backToRecipesLink}>
+        ← Back to Recipes
+      </Link>
       {image && <img className={styles.image} src={image} alt={id} />}
       {recipeSectionTokens.title && <RecipeTitle tokens={recipeSectionTokens.title} />}
       {recipeSectionTokens.info && <RecipeInfo tokens={recipeSectionTokens.info} />}

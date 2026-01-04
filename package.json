@@ -19,6 +19,7 @@
     "fix:all": "npm run lint:fix && npm run format:fix"
   },
   "dependencies": {
+    "@vercel/analytics": "^1.6.1",
     "marked": "17.0.1",
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
@@ -33,6 +34,7 @@
     "@vitejs/plugin-react": "^5.1.2",
     "eslint": "^8.57.0",
     "eslint-config-prettier": "^9.1.0",
+    "eslint-import-resolver-typescript": "^4.4.4",
     "eslint-plugin-import": "^2.32.0",
     "eslint-plugin-react": "^7.37.5",
     "eslint-plugin-react-hooks": "^4.6.0",
