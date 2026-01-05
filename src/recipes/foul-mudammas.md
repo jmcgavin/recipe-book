@@ -27,6 +27,6 @@
 
 1. Heat 1 tbsp of olive oil in a pan over low heat.
 2. Add the red onion, garlic and cumin seeds. Cook for 1-2 minutes to let the onions soften then add the tomatoes.
-3. Once the tomatoes are soft, add the fava beans and water and simmer until it begins to thicken.
-4. Add tahini, lime juice and salt and pepper to taste.
+3. Once the tomatoes are soft, add the fava beans and water and simmer 5-10 minutes until it begins to thicken. 
+4. Turn off the heat and add tahini, lime juice and salt and pepper to taste.
 5. Top with additional olive oil and serve with naan.

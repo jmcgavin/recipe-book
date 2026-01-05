@@ -17,7 +17,7 @@ Sausage, leek and fennel pasta with lemon, garlic and chilli.
 - 1 medium fennel, stalks and fonds removed
 - 1 large leek, quartered then chopped (rinse to remove any residual dirt/sand)
 - Pasta of choice (penne works great)
-- 1 tbsp neutral oil
+- 1 tsp neutral oil
 - 2 cloves garlic, thinly sliced
 - 1-2 chili peppers, finely chopped (optional)
 - ½ cup white wine (for deglazing)

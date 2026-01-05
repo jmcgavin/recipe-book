@@ -34,8 +34,7 @@ Curry powder
 ## Steps
 
 1. Prepare the curry powder by mixing together all the spices.
-2. In a large bowl, prepare a marinade by adding the greek yogurt, lemon juice and half the curry powder. Add the chicken and toss to coat then place in the fridge for 30-60 minutes. Set the remaining curry powder aside.
-3. Heat the ghee (or oil) in a pan over medium heat. Add the garlic and ginger and cook for 30 seconds before adding the remaining curry powder and bloom for another 30 seconds.
-4. Add the chicken to the pan and cook for a couple minutes on each side before adding the tomato pasata and ½ tsp of salt.
-5. Simmer the chicken in the sauce for 10-15 minutes until cooked through.
-6. Serve with rice or naan.
+2. In a large bowl, prepare a marinade by adding the Greek yogurt, lemon juice and half the curry powder. Add the chicken and toss to coat then place in the fridge for 30-60 minutes. Set the remaining curry powder aside.
+3. Heat the ghee (or oil) in a pan over medium heat. Add the garlic and ginger and cook for 30 then add the reserved curry powder and bloom for 30 seconds before adding the chicken. Cook the chicken for a couple minutes on each side then add the tomato pasata and ½ tsp of salt.
+4. Simmer the chicken in the sauce for 10-15 minutes until cooked through.
+5. Serve with rice or naan.

@@ -14,7 +14,7 @@
 - 450g ground beef
 - 3 tbsp taco seasoning (see my Taco Seasoning recipe)
 - 1 tbsp white vinegar
-- 1 tbsp neutral oil
+- 1 tsp neutral oil
 - ½ cup chicken broth
 - 1 can (540ml) black beans (including the liquid/aquafaba)
 - 1 clove garlic, minced

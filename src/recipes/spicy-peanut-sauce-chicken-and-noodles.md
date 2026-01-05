@@ -10,10 +10,10 @@
 ## Ingredients
 
 - 20oz chicken breast, diced (roughly 2 medium breasts)
-- 1 tbsp neutral oil
+- 1 tsp neutral oil
 - 5 green onions (whites only, reserve greens for garnish)
 - 5 cloves garlic, minced
-- Noodles or pasta of your choice
+- Egg noodles (or pasta of your choice)
 
 Chicken marinade
 - 2 tbsp soy sauce
