@@ -3,9 +3,9 @@ import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import { ErrorBoundary } from 'react-error-boundary'
 
+import './app.css'
 import ErrorFallback from './components/ErrorFallback'
 import Router from './components/Router'
-import './index.css'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>

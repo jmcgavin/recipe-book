@@ -19,12 +19,15 @@
     "fix:all": "npm run lint:fix && npm run format:fix"
   },
   "dependencies": {
+    "@headlessui/react": "^2.2.9",
+    "@tailwindcss/vite": "^4.1.18",
     "@vercel/analytics": "^1.6.1",
     "marked": "17.0.1",
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
     "react-error-boundary": "^6.0.1",
-    "react-router-dom": "^7.11.0"
+    "react-router-dom": "^7.11.0",
+    "tailwindcss": "^4.1.18"
   },
   "devDependencies": {
     "@types/react": "^19.2.7",

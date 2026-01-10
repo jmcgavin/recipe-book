@@ -14,4 +14,5 @@ export type RecipeSectionTokens = {
 export type RecipeFileMeta = {
   id: string
   title: string
+  tags: string[]
 }

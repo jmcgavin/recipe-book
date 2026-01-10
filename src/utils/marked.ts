@@ -4,32 +4,32 @@ import { RECIPE_SECTIONS } from '../constants'
 import type { RecipeSectionTokens } from '../types'
 
 /**
- * @typeguard
  * Check if a token is a list token.
+ * @typeguard
  */
 export const isListToken = (token: Token): token is Tokens.List => {
   return token.type === 'list'
 }
 
 /**
- * @typeguard
  * Check if a token is a list item token.
+ * @typeguard
  */
 export const isListItemToken = (token: Token): token is Tokens.ListItem => {
   return token.type === 'list_item'
 }
 
 /**
- * @typeguard
  * Check if a token is a text token.
+ * @typeguard
  */
 export const isTextToken = (token: Token): token is Tokens.Text => {
   return token.type === 'text'
 }
 
 /**
- * @utility
  * Organize Marked tokens into recipe sections.
+ * @utility
  */
 export const tokensToSections = (tokens: TokensList): RecipeSectionTokens => {
   let section = ''
@@ -89,4 +89,38 @@ export const tokensToSections = (tokens: TokensList): RecipeSectionTokens => {
   )
 
   return sectionTokens
+}
+
+/**
+ * Extract recipe info data from into section tokens.
+ * @utility
+ */
+export const extractRecipeInfoData = (infoSectionTokens: Token[]): Record<string, string[]> => {
+  // Get the first list token at root level
+  const listToken = infoSectionTokens.find(isListToken)
+
+  if (!listToken) return {}
+
+  const result: Record<string, string[]> = {}
+
+  listToken.items.filter(isListItemToken).forEach((item) => {
+    // Extract the label (i.e., "Time", "Makes", "Tags")
+    const labelToken = item.tokens[0]
+    const labelText = isTextToken(labelToken) ? labelToken.raw.trim() : ''
+
+    // Extract nested list items or text
+    const nestedList = item.tokens[1]
+    let values: string[] = []
+
+    if (nestedList && isListToken(nestedList)) {
+      values = nestedList.items
+        .filter(isListItemToken)
+        .map((nestedItem) => nestedItem.text?.trim() || '')
+        .filter((v): v is string => Boolean(v))
+    }
+
+    result[labelText] = values
+  })
+
+  return result
 }
