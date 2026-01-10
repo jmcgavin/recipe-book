@@ -5,7 +5,7 @@
 - Time
   - 30 minutes
 - Makes
-  - 6 servings
+  - 6-8 servings
 - Tags
   - Main course
 

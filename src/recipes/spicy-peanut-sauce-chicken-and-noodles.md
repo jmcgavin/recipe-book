@@ -5,7 +5,10 @@
 - Time
   - 30 minutes
 - Makes
-  - 4-6 servings
+  - 3-4 servings
+- Tags
+  - Main course
+  - Pasta
 
 ## Ingredients
 

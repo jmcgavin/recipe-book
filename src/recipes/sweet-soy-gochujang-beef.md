@@ -5,6 +5,8 @@ Korean-inspired braised beef.
 
 - Time
   - 4 hours
+- Makes
+  - 4-6 servings
 - Tags
   - Main course
   - Slow cooker

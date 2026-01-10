@@ -6,8 +6,6 @@ Basic taco/fajita seasoning.
 
 - Time
   - 5 minutes
-- Makes
-  - 3 tbsp
 - Tags
   - Other
 

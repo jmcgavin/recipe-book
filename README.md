@@ -7,13 +7,13 @@ TL;DR A markdown archive of my favourite food and drink recipes.
 
 <https://jordans-recipes.vercel.app/>
 
-## 👨🏼‍🍳 Background
+## 👨🏻‍🍳 Background
 
-I've spent years gathering and collecting recipes from a variety of different physical and digital sources. Over time it grew into a disorganized mess of different bookmarks, YouTube videos, Instagram posts, TikToks, screenshots, magazine clippings, actual recipe books, etc. I told myself there had to be a better way to save, organize and categorize all the recipes I amass. But when I couldn't find one, I decided to make one myself!
+I've spent years gathering and collecting recipes from a variety of physical and digital sources. Over time it grew into a disorganized mess of bookmarks, YouTube videos, Instagram posts, TikToks, screenshots, magazine clippings, recipe books, etc. I told myself there had to be a better way to save, organize and categorize all the recipes I amass. But when I couldn't find one, I decided to make it myself!
 
 ## Features
 
-- 📖 Browse a collection of recipes
+- 📖 Browse recipes
 - 🔍 View detailed recipe information including ingredients, steps, and notes
 - 📝 Markdown-based recipe format for easy editing and version control
 - 🎨 Responsive design with component-based architecture
