@@ -1,4 +1,6 @@
-# Mayak Eggs (Korean Marinated Eggs)
+# Mayak Eggs
+
+Korean marinated eggs.
 
 ## Info
 

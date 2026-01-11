@@ -11,13 +11,6 @@ TL;DR A markdown archive of my favourite food and drink recipes.
 
 I've spent years gathering and collecting recipes from a variety of physical and digital sources. Over time it grew into a disorganized mess of bookmarks, YouTube videos, Instagram posts, TikToks, screenshots, magazine clippings, recipe books, etc. I told myself there had to be a better way to save, organize and categorize all the recipes I amass. But when I couldn't find one, I decided to make it myself!
 
-## Features
-
-- 📖 Browse recipes
-- 🔍 View detailed recipe information including ingredients, steps, and notes
-- 📝 Markdown-based recipe format for easy editing and version control
-- 🎨 Responsive design with component-based architecture
-
 ## Tech Stack
 
 - **React** - UI framework
@@ -29,7 +22,7 @@ I've spent years gathering and collecting recipes from a variety of physical and
 
 ## TODO
 
-- Search recipes by name
+- Search recipes by name/ingredients
 - Filter recipes by tags
 
 Happy cooking! 🍳

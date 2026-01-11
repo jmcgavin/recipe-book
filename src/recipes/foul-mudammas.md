@@ -1,4 +1,6 @@
-# Foul Mudammas (Egyptian Fava Beans)
+# Foul Mudammas
+
+Egyptian fava beans.
 
 ## Info
 

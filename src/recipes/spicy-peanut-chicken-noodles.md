@@ -1,4 +1,4 @@
-# Spicy Peanut Sauce Chicken and Noodles
+# Spicy Peanut Chicken Noodles
 
 ## Info
 
