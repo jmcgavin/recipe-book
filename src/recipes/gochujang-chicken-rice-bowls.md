@@ -13,7 +13,7 @@
 
 - 450g ground chicken (or turkey)
 - 2 green onions
-- 1/4 yellow onion
+- ¼ yellow onion
 - 5 cloves garlic
 - 1 small knob of ginger
 - 1-2 mild chili peppers (or bell pepper), for color

@@ -13,14 +13,14 @@ Sausage, leek and fennel pasta with lemon, garlic and chilli.
 
 ## Ingredients
 
-- 5-6 quality pork sausages, casings removed
+- 5-6 quality pork sausages, casing removed
 - 1 medium fennel, stalks and fonds removed
-- 1 large leek, quartered then chopped (rinse to remove any residual dirt/sand)
+- 1 leek, quartered then chopped
 - Pasta of choice (penne works great)
 - 1 tsp neutral oil
 - 2 cloves garlic, thinly sliced
 - 1-2 chili peppers, finely chopped (optional)
-- ½ cup white wine (for deglazing)
+- ½ cup dry white wine (for deglazing)
 - ⅓ cup cream
 - 1 tsp fennel seeds
 - ½ a lemon, zest and juice

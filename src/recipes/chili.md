@@ -13,7 +13,7 @@
 ## Ingredients
 
 - 450g ground beef
-- 2 spicy Italian sausages, casings removed
+- 2 spicy Italian sausages, casing removed
 - 1 can (796ml) diced tomatoes
 - 1 can (540ml) seasoned, diced tomatoes (I use Aylmer Accents with chili seasonings)
 - 1 can (540ml) kidney beans
