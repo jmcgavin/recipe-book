@@ -31,7 +31,7 @@ Curry powder
 - ½ tsp garam masala
 - ¼ tsp cayenne
 
-## Steps
+## Instructions
 
 1. Prepare the curry powder by mixing together all the spices.
 2. In a large bowl, prepare a marinade by adding the Greek yogurt, lemon juice and half the curry powder. Add the chicken and toss to coat then place in the fridge for 30-60 minutes. Set the remaining curry powder aside.

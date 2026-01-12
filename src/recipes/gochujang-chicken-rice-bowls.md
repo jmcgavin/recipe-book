@@ -32,7 +32,7 @@ Sauce
 - 1 tbsp sugar
 - 1 tbsp mirin
 
-## Steps
+## Instructions
 
 1. Thinly slice the green onions, separating the whites and greens. Finely dice the onion. Smash the garlic cloves and finely chop them. Grate a small knob of ginger (1 tsp). Thinly slice the chili peppers.
 2. Make the sauce. In a small container, mix together the Korean chili pepper flakes, Korean chili paste, soy sauce, oyster sauce, sugar, and mirin.

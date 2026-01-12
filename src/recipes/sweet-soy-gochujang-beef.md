@@ -24,7 +24,7 @@ Korean-inspired braised beef.
 - 1 tbsp rice vinegar
 - Rice (for serving)
 
-## Steps
+## Instructions
 
 1. Add all ingredients to slow cooker. Cook on high for 4 hours.
 2. Serve with rice.

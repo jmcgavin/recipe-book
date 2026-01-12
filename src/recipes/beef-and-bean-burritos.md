@@ -24,7 +24,7 @@
 - Plain Greek yogurt or sour cream (for serving)
 - Shredded cheese (for serving)
 
-## Steps
+## Instructions
 
 1. Heat 1 tbsp of oil in a large pan over medium-high heat. Add ground beef and season with half the taco seasoning (1.5 tbsp). Break apart the meat as it cooks.
 2. Once meat is fully cooked, remove from pan and set aside. Reduce heat to medium and add onions, green pepper and garlic and sauté for a few minutes until vegetables begin to soften.

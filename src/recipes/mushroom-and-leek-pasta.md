@@ -24,7 +24,7 @@ A Gordon Ramsay recipe.
 - 2 tbsp roughly chopped tarragon leaves
 - Salt and freshly ground black pepper
 
-## Steps
+## Instructions
 
 1. Heat a large frying pan and add a dash of oil. Season the mushrooms with salt and pepper and start to saute them, adding the garlic after 2 minutes and the leek a minute later. Cook for 6-8 minutes until the leek is soft and the mushrooms are colored on the outside Taste and adjust the seasoning.
 2. Add the stock and boil for 5 minutes until reduced by half.

@@ -17,7 +17,7 @@
 - ¼ cup lemon juice
 - 1 tsp salt
 
-## Steps
+## Instructions
 
 1. Add all the ingredients to a blender and blend until smooth.
 

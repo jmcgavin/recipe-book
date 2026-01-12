@@ -22,12 +22,12 @@ Additional ingredients
 - Ingredient 1
 - Ingredient 2
 
-## Steps
+## Instructions
 
 1. Step 1
 2. Step 2
 
-Additional steps
+Additional instructions
 
 1. Step 1
 2. Step 2

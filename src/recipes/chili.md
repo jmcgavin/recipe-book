@@ -31,7 +31,7 @@
 - ¼ tsp cinnamon
 - Salt and pepper
 
-## Steps
+## Instructions
 
 1. Heat 1 tbsp of olive oil in a large Dutch oven (or heavy-bottom stock pot) over medium-high heat. Add ground beef, sausage meat and garlic. Break apart the meat as it cooks.
 2. Once meat is fully cooked, remove from pot and set aside. Add the remaining 1 tbsp of olive oil to the pot.

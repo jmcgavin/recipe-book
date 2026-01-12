@@ -31,7 +31,7 @@ Peanut sauce
 - 75g honey
 - Juice of ½ lime
 
-## Steps
+## Instructions
 
 1. Add diced chicken and marinade ingredients to a bowl and toss to combine.
 2. Heat oil in a pan over medium-high heat and add the chicken.

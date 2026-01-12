@@ -10,7 +10,7 @@ import RecipeInfo from './RecipeInfo'
 import RecipeIngredients from './RecipeIngredients'
 import RecipeNotes from './RecipeNotes'
 import RecipeReferences from './RecipeReferences'
-import RecipeSteps from './RecipeSteps'
+import RecipeInstructions from './RecipeInstructions'
 import RecipeTitle from './RecipeTitle'
 
 const RecipeDetail = () => {
@@ -22,7 +22,7 @@ const RecipeDetail = () => {
     title: null,
     info: null,
     ingredients: null,
-    steps: null,
+    instructions: null,
     notes: null,
     references: null,
   })
@@ -127,9 +127,9 @@ const RecipeDetail = () => {
       {image && <img className={styles.image} src={image} alt={id} />}
       {recipeSectionTokens.title && <RecipeTitle tokens={recipeSectionTokens.title} />}
       {recipeSectionTokens.info && <RecipeInfo tokens={recipeSectionTokens.info} />}
-      <div className={styles.ingredientsAndSteps}>
+      <div className={styles.ingredientsAndInstructions}>
         {recipeSectionTokens.ingredients && <RecipeIngredients tokens={recipeSectionTokens.ingredients} />}
-        {recipeSectionTokens.steps && <RecipeSteps tokens={recipeSectionTokens.steps} />}
+        {recipeSectionTokens.instructions && <RecipeInstructions tokens={recipeSectionTokens.instructions} />}
       </div>
       {(!!recipeSectionTokens.notes || !!recipeSectionTokens.references) && <hr className={styles.divider} />}
       {recipeSectionTokens.notes && <RecipeNotes tokens={recipeSectionTokens.notes} />}

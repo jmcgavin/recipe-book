@@ -31,7 +31,7 @@ Sauce
 - 2 tbsp oyster sauce
 - 1 tbsp Shaoxing wine (or mirin, dry sherry, water, etc.)
 
-## Steps
+## Instructions
 
 1. Thinly slice the green onions, separating the whites and the greens. Finely chop the garlic cloves.
 2. Grate a small knob of ginger if you are using pork. Trim off the ends of the bok choy. Cut in half (or quarters) lengthwise.

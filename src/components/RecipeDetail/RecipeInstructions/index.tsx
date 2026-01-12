@@ -7,11 +7,11 @@ type Props = {
   tokens: Token[]
 }
 
-const RecipeSteps = ({ tokens }: Props) => {
-  // console.log('Steps tokens', tokens)
+const RecipeInstructions = ({ tokens }: Props) => {
+  // console.log('Instructions tokens', tokens)
   const html = useMemo(() => marked.parser(tokens), [tokens])
 
   return <section className={styles.section} dangerouslySetInnerHTML={{ __html: html }} />
 }
 
-export default RecipeSteps
+export default RecipeInstructions

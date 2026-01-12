@@ -31,7 +31,7 @@ Firecracker sauce
 - 2 tbsp soy sauce
 - 2 tbsp rice wine vinegar
 
-## Steps
+## Instructions
 
 1. Mix together the firecracker sauce in a small bowl.
 2. Heat the oil in a large pan and cook the onion, on medium heat, stirring regularly for five minutes until soft. Add the beef mince and cook for 5 minutes, until brown all over, breaking it up with a wooden spoon or spatula until there are no big lumps.

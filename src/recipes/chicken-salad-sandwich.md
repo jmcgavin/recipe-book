@@ -24,7 +24,7 @@
 - Ciabatta bun (for serving)
 - Butter lettuce (for serving)
 
-## Steps
+## Instructions
 
 1. In a large pot, arrange the chicken in a single layer. Place lemon slices and dill sprigs on chicken and pour water over it, covering by at least an inch. Bring water to a boil, then reduce heat and simmer until cooked through, 10 minutes. Let rest 10 minutes, then slice into 1" pieces.
 2. In a large bowl, combine chicken, apple, onion, and celery.

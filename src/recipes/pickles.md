@@ -33,7 +33,7 @@ Dill Pickles
 - 3 tsp dill seeds
 - Fresh dill sprigs
 
-## Steps
+## Instructions
 
 Spicy Pickles
 

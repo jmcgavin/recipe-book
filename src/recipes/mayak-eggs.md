@@ -27,7 +27,7 @@ Marinade
 - 2 chili peppers, diced
 - 1 tbsp toasted sesame seeds
 
-## Steps
+## Instructions
 
 1. In a bowl or a container, add the marinade ingredients and mix to combine, ensuring all the honey is scraped from the bottom.
 2. Add vinegar and salt to a pot of boiling water. Reduce the heat and gently place each egg into the water. Simmer for 6 minutes (or 10 minutes for hard-boiled eggs). Prepare a large bowl of ice water.

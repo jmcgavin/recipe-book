@@ -26,7 +26,7 @@ A Gordon Ramsay recipe.
 - 2 tomatoes, chopped
 - Small bunch of flat leaf parsley, chopped 
 
-## Steps
+## Instructions
 
 1. Add 1 tbsp of olive oil to a heavy-based casserole dish and sauté the onions on medium heat for 5 minutes until soft but not coloured.
 2. Add the pepper and garlic and cook for 2 minutes while stirring so the garlic doesn't burn.

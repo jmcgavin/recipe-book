@@ -15,7 +15,7 @@
   max-height: 500px;
 }
 
-.ingredientsAndSteps {
+.ingredientsAndInstructions {
   display: grid;
   grid-template-columns: 1fr 2fr;
   gap: 64px;
@@ -27,7 +27,7 @@
 }
 
 @media (max-width: 768px) {
-  .ingredientsAndSteps {
+  .ingredientsAndInstructions {
     display: block;
   }
 }

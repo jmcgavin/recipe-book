@@ -21,6 +21,6 @@ Basic taco/fajita seasoning.
 - ½ tsp onion powder
 - ¼ tsp crushed red pepper flakes (or pinch of cayenne, to taste)
 
-## Steps
+## Instructions
 
 1. Mix all ingredients

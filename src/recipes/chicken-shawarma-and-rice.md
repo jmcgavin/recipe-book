@@ -38,7 +38,7 @@ Rice
 - 2½ cups chicken broth
 - Salt and pepper
 
-## Steps
+## Instructions
 
 Sauce
 

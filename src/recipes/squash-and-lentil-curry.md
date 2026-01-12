@@ -30,7 +30,7 @@
 - Salt and pepper
 - Naan (for serving)
 
-## Steps
+## Instructions
 
 1. In the slow cooker, combine all the ingredients. Season with salt and pepper. Cover and cook on low for 6 hours. It can be maintained on warm for up to 8 hours.
 

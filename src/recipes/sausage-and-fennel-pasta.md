@@ -28,7 +28,7 @@ Sausage, leek and fennel pasta with lemon, garlic and chilli.
 - ¼ cup Parmesan
 - Salt and pepper
 
-## Steps
+## Instructions
 
 1. Begin by preparing the fennel bulb, using a vegetable peeler to remove any bruised/dirty spots. Next, trim off the root end of the bulb and dice into small cubes (like you would an onion).
 2. In a large Dutch oven (or heavy-bottom stock pot) over medium-high heat add 1 tbsp of oil and fry the sausage meat while breaking it up into bite-sized pieces.

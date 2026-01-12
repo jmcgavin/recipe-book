@@ -30,7 +30,7 @@ Low-calorie chipotle sauce
 - 60ml milk (or as needed)
 - Salt to taste
 
-## Steps
+## Instructions
 
 1. Add all ingredients to slow cooker. Cook on low for 4 hours.
 2. When chicken is done cooking, turn off slow cooker and use tongs to shred chicken directly in the slow cooker pot. It's okay if it seems liquidy at this point. The rice will soak it up.

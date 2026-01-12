@@ -62,9 +62,9 @@ export const tokensToSections = (tokens: TokensList): RecipeSectionTokens => {
           if (!acc[RECIPE_SECTIONS.INGREDIENTS]) acc[RECIPE_SECTIONS.INGREDIENTS] = []
           acc[RECIPE_SECTIONS.INGREDIENTS]!.push(curr)
           break
-        case RECIPE_SECTIONS.STEPS:
-          if (!acc[RECIPE_SECTIONS.STEPS]) acc[RECIPE_SECTIONS.STEPS] = []
-          acc[RECIPE_SECTIONS.STEPS]!.push(curr)
+        case RECIPE_SECTIONS.INSTRUCTIONS:
+          if (!acc[RECIPE_SECTIONS.INSTRUCTIONS]) acc[RECIPE_SECTIONS.INSTRUCTIONS] = []
+          acc[RECIPE_SECTIONS.INSTRUCTIONS]!.push(curr)
           break
         case RECIPE_SECTIONS.NOTES:
           if (!acc[RECIPE_SECTIONS.NOTES]) acc[RECIPE_SECTIONS.NOTES] = []
@@ -82,7 +82,7 @@ export const tokensToSections = (tokens: TokensList): RecipeSectionTokens => {
       [RECIPE_SECTIONS.TITLE]: null,
       [RECIPE_SECTIONS.INFO]: null,
       [RECIPE_SECTIONS.INGREDIENTS]: null,
-      [RECIPE_SECTIONS.STEPS]: null,
+      [RECIPE_SECTIONS.INSTRUCTIONS]: null,
       [RECIPE_SECTIONS.NOTES]: null,
       [RECIPE_SECTIONS.REFERENCES]: null,
     },

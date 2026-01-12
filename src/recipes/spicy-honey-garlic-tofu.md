@@ -33,7 +33,7 @@ Spicy honey garlic glaze
 - 3 tbsp soy sauce
 - ¼ cup hot water
 
-## Steps
+## Instructions
 
 1. Pat the tofu cubes dry with a paper towel to remove excess moisture. Add them to a bowl and season with salt, black pepper, and garlic powder. Sprinkle with potato starch and toss the tofu cubes until evenly coated.
 2. In a wok or pan, add ½ cup of neutral oil over medium-high heat. Add the tofu in a single layer and fry for 2-3 minutes, flipping to crisp up the tofu on all sides. Repeat with the rest of the tofu and remove to a wire rack to drain.
