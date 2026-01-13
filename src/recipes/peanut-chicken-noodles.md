@@ -12,7 +12,7 @@
 
 ## Ingredients
 
-- 20oz chicken breast, diced (roughly 2 medium breasts)
+- 500g chicken breast, diced (roughly 2 medium breasts)
 - 1 tsp neutral oil
 - 5 green onions (whites only, reserve greens for garnish)
 - 5-10 cloves garlic, minced

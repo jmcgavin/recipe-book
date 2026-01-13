@@ -15,7 +15,7 @@ A Gordon Ramsay recipe.
 ## Ingredients
 
 - 2 tablespoons olive oil
-- 8 oz mushrooms, trimmed and sliced (cremini or bella work well)
+- 250g mushrooms, trimmed and sliced (cremini or bella work well)
 - 1 clove garlic, finely chopped
 - 1 leek, quartered then chopped
 - 1 cup chicken stock

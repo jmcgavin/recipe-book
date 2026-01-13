@@ -12,33 +12,35 @@
 
 ## Ingredients
 
+- 2 tbsp olive oil, divided in 2
 - 450g ground beef
-- 2 spicy Italian sausages, casing removed
-- 1 can (796ml) diced tomatoes
-- 1 can (540ml) seasoned, diced tomatoes (I use Aylmer Accents with chili seasonings)
-- 1 can (540ml) kidney beans
+- 2 spicy Italian sausages, casings removed
 - 1 large onion, diced
 - 1 green bell pepper, diced
 - 1 large carrot, chopped
-- 1 clove garlic, minced
+- 2 cloves garlic, minced
+- 1 can (540ml) kidney beans
+- 1 can (796ml) diced tomatoes
+- 1 can (540ml) seasoned, diced tomatoes (I use Aylmer Accents with chili seasonings)
+- 2 tsp Worcestershire sauce
+- Salt and pepper to taste
+
+Seasoning 
 - 1 packet chili seasoning mix
 - 1 packet ranch dressing mix
 - 2 tbsp cocoa powder
-- 2 tbsp olive oil
 - 1 tbsp brown sugar
-- 2 tsp Worcestershire sauce
 - ½ tsp chili powder
 - ¼ tsp cinnamon
-- Salt and pepper
 
 ## Instructions
 
-1. Heat 1 tbsp of olive oil in a large Dutch oven (or heavy-bottom stock pot) over medium-high heat. Add ground beef, sausage meat and garlic. Break apart the meat as it cooks.
-2. Once meat is fully cooked, remove from pot and set aside. Add the remaining 1 tbsp of olive oil to the pot.
-3. Add the onion, bell pepper and carrot and sauté for a few minutes until vegetables begin to soften.
-4. Add kidney beans and both cans of tomatoes and bring to a simmer.
-5. Reduce heat to low and add the remaining ingredients.
-6. Simmer for 4 hours with the lid ajar, stirring occasionally.
+1. Heat 1 tbsp of olive oil in a large Dutch oven (or heavy-bottom pot) over medium-high heat. Add ground beef and sausage meat and season with salt and pepper. Allow the meat to sear on the bottom a little before beginning to break it apart.
+2. Once meat is fully cooked and most of the liquid has evaporated, remove the meat from the pot and set aside.
+3. Add the remaining 1 tbsp of olive oil to the pot along with the onion, bell pepper and carrot and sauté for a few minutes until vegetables begin to soften. Add garlic and cook for another minute.
+4. Add kidney beans, both cans of tomatoes and the Worcestershire sauce and bring to a simmer.
+5. Reduce heat to low, add the seasoning mix and stir to combine.
+6. Continue to simmer on low for 4 hours with the lid ajar, stirring occasionally.
 
 ## Notes
 

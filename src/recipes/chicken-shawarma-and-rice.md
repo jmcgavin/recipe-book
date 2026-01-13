@@ -11,7 +11,7 @@
 
 ## Ingredients
 
-- 2 lbs chicken thighs, tenderized
+- 1kg chicken thighs, tenderized (roughly 9 medium thighs)
 - 1 large yellow onion
 - Tzatziki sauce (for serving)
 
@@ -20,8 +20,8 @@ Sauce
 - 2 cups plain Greek yogurt
 - ¼ cup lemon juice
 - ½ cup olive oil
-- 1 tbsp salt
 - 1 clove garlic, minced
+- 1 tbsp salt
 - 1 tbsp ground coriander
 - 1 tbsp paprika
 - 1 tbsp ground cumin
@@ -39,8 +39,6 @@ Rice
 - Salt and pepper
 
 ## Instructions
-
-Sauce
 
 1. Mix all sauce ingredients together.
 2. Use half the sauce to marinade the chicken for 1.5 hours. Keep the other half of the sauce for serving later. Place the chicken and sauce in the fridge.

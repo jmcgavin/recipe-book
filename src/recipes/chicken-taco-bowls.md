@@ -13,13 +13,12 @@
 
 ## Ingredients
 
-- 1360g boneless, skinless chicken thighs
-- 3 packets taco seasoning
+- 1kg chicken thighs (roughly 9 medium thighs)
+- 2 packets taco seasoning
 - 1 jar (480g) red enchilada sauce
 - 1 can (540ml) black beans, drained and rinsed
 - 1 can (340g) fire roasted corn
-- 480g (roughly 2½ cups) uncooked jasmine rice
-- Salt to taste
+- 2 cups uncooked jasmine rice
 
 Low-calorie chipotle sauce
 - 450g plain Greek yogurt
