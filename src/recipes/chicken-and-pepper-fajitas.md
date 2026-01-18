@@ -19,7 +19,7 @@
 - 1 onion, thinly sliced
 - Salt and pepper to taste
 - Juice of ½ lime
-- 2 tbsp chopped cilantro (or parsley)
+- 2 tbsp chopped cilantro or parsley
 - Flour tortillas (for serving)
 - Plain Greek yogurt or sour cream (for serving)
 

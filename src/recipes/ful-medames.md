@@ -16,7 +16,7 @@ Egyptian fava beans.
 - 1 tbsp olive oil (plus more for serving)
 - 1 small red onion, diced
 - 1 clove garlic, minced
-- 1 serrano or jalapeño pepper (optional), finely sliced
+- 1 serrano or jalapeño pepper, finely sliced (optional)
 - 2 tsp cumin seeds
 - 1 tomato, diced
 - 1 can (540ml) fava beans, rinsed and drained

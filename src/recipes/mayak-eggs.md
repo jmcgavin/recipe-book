@@ -14,7 +14,7 @@ Korean marinated eggs.
 
 - 6 large eggs (room temperature)
 - 1 tbsp each salt and white vinegar (for boiling the eggs)
-- Green onions, seaweed flakes, and/or sesame oil (for garnish, optional)
+- Green onions, seaweed flakes, and/or sesame oil (optional, for garnish)
 
 Marinade
 
