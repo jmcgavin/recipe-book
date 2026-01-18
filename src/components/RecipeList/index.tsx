@@ -5,12 +5,14 @@ import { Link } from 'react-router-dom'
 import styles from './styles.module.css'
 import { RecipeFileMeta } from '../../types'
 import ErrorFallback from '../ErrorFallback'
+import Spinner from '../Spinner'
 
 const cookbookIcon = '/cookbook.svg'
 
 const RecipeList = () => {
-  const [headers, setHeaders] = useState<RecipeFileMeta[]>([])
   const [error, setError] = useState<Error | null>(null)
+  const [headers, setHeaders] = useState<RecipeFileMeta[]>([])
+  const [loading, setLoading] = useState<boolean>(true)
 
   useEffect(() => {
     const loadRecipeHeaders = async () => {
@@ -45,6 +47,7 @@ const RecipeList = () => {
         }
 
         setHeaders(recipeHeaders)
+        setLoading(false)
       } catch (err) {
         setError(err instanceof Error ? err : new Error('Failed to load recipes'))
       }
@@ -61,6 +64,7 @@ const RecipeList = () => {
       <h1 className={styles.header}>
         <img src={cookbookIcon} alt='Cookbook' /> Jordan&apos;s Recipes
       </h1>
+      {loading && <div className={styles.loadingContainer}><Spinner /></div>}
       <ul>
         {headers.map(({ id, title }) => (
           <li key={id}>
