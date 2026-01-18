@@ -26,7 +26,7 @@
 
 ## Instructions
 
-1. Heat 1 tbsp of oil in a large pan over medium-high heat. Add ground beef and season with half the taco seasoning (1½ tbsp). Break apart the meat as it cooks.
+1. Heat 1 tsp of oil in a large pan over medium-high heat. Add ground beef and season with half the taco seasoning (1½ tbsp). Break apart the meat as it cooks.
 2. Once meat is fully cooked, remove from pan and set aside. Reduce heat to medium and add onions, green pepper and garlic and sauté for a few minutes until vegetables begin to soften.
 3. Add the can of black beans (including the liquid) to the pan along with the chicken broth, vinegar and remaining taco seasoning.
 4. Reduce heat to medium-low and continue to simmer for 5-10 minutes until mixture begins to thicken.

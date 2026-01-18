@@ -23,7 +23,7 @@ Spicy Pickles
 - 2 tsp caraway seeds
 - 1 tsp dry mustard
 - Garlic cloves
-- Jalapeno peppers, quartered
+- Jalapeño peppers, quartered
 
 Dill Pickles
 
@@ -39,7 +39,7 @@ Spicy Pickles
 
 1. Add water, vinegar, salt, peppercorns, crushed red pepper flakes, caraway seeds and dry mustard to a pot and bring to a boil.
 2. When pickling liquid reaches a boil, remove from heat and set aside for a couple minutes.
-3. Lightly crush a clove of garlic and place into each jar along with a couple jalapeno slices.
+3. Into each jar place a couple crushed cloves of garlic and a couple jalapeño slices.
 4. Fill jars with cucumber spears and then cover with pickling liquid. Ensure cucumbers are fully submerged in pickling liquid.
 5. Fasten the lids onto the jars and allow them to cool to room temperature before placing in the fridge.
 
