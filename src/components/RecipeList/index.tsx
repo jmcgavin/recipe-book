@@ -1,21 +1,27 @@
+import { MultiSelect } from '@mantine/core'
+import '@mantine/core/styles.css'
 import { marked } from 'marked'
 import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 
 import styles from './styles.module.css'
 import { RecipeFileMeta } from '../../types'
+import { extractRecipeInfoData, tokensToSections } from '../../utils/marked'
 import ErrorFallback from '../ErrorFallback'
 import Spinner from '../Spinner'
 
 const cookbookIcon = '/cookbook.svg'
 
 const RecipeList = () => {
+  const [allTags, setAllTags] = useState<string[]>([])
+  const [selectedTags, setSelectedTags] = useState<string[]>([])
+  const [allRecipeData, setAllRecipeData] = useState<RecipeFileMeta[]>([])
+  const [filteredRecipeData, setFilteredRecipeData] = useState<RecipeFileMeta[]>([])
   const [error, setError] = useState<Error | null>(null)
-  const [headers, setHeaders] = useState<RecipeFileMeta[]>([])
   const [loading, setLoading] = useState<boolean>(true)
 
   useEffect(() => {
-    const loadRecipeHeaders = async () => {
+    const loadRecipes = async () => {
       try {
         const recipeModules = import.meta.glob<string>('../../recipes/*.md', { query: '?raw', import: 'default' })
 
@@ -23,30 +29,39 @@ const RecipeList = () => {
           throw new Error('No recipes found')
         }
 
-        const recipeHeaders: RecipeFileMeta[] = []
+        const fileMeta: RecipeFileMeta[] = []
 
         for (const [path, importFn] of Object.entries(recipeModules)) {
-          const content = await importFn()
-          const tokens = marked.lexer(content)
+          const id = path.replace(/^.*\/(.+)\.md$/, '$1')
+          const markdown = await importFn()
+          const tokens = marked.lexer(markdown)
+          const sectionTokens = tokensToSections(tokens)
 
-          const h1Token = tokens.find((token) => token.type === 'heading' && token.depth === 1)
-
+          // Get recipe title
+          let title = ''
+          const h1Token = sectionTokens.title?.find((token) => token.type === 'heading' && token.depth === 1)
           if (h1Token && 'text' in h1Token && typeof h1Token.text === 'string') {
-            const recipeId = path.replace(/^.*\/(.+)\.md$/, '$1')
-            const recipeTitle = h1Token.text
+            title = h1Token.text
+          }
 
-            if (!recipeId) {
-              throw new Error(`Invalid file path: ${path}`)
-            } else {
-              recipeHeaders.push({
-                id: recipeId,
-                title: recipeTitle,
-              })
-            }
+          // Get recipe tags
+          let tags: string[] = []
+          if (sectionTokens.info) {
+            const recipeInfoData = extractRecipeInfoData(sectionTokens.info)
+            tags = recipeInfoData['Tags'] // TODO: investigate why this can be undefined but not caught by TS
+          }
+
+          if (title) {
+            fileMeta.push({
+              id,
+              title,
+              tags
+            })
           }
         }
 
-        setHeaders(recipeHeaders)
+        setAllRecipeData(fileMeta)
+        setAllTags([...new Set(fileMeta.flatMap((meta) => meta.tags))])
         setLoading(false)
       } catch (err) {
         setError(err instanceof Error ? err : new Error('Failed to load recipes'))
@@ -54,8 +69,20 @@ const RecipeList = () => {
     }
 
     // eslint-disable-next-line @typescript-eslint/no-floating-promises
-    loadRecipeHeaders()
+    loadRecipes()
   }, [])
+
+  useEffect(() => {
+    if (selectedTags.length === 0) {
+      setFilteredRecipeData(allRecipeData)
+    } else {
+      setFilteredRecipeData(() =>
+        allRecipeData.filter((recipe) =>
+          selectedTags.every((tag) => recipe.tags.includes(tag))
+        )
+      )
+    }
+  }, [allRecipeData, selectedTags])
 
   if (error) return <ErrorFallback error={error} />
 
@@ -64,16 +91,26 @@ const RecipeList = () => {
       <h1 className={styles.header}>
         <img src={cookbookIcon} alt='Cookbook' /> Jordan&apos;s Recipes
       </h1>
-      {loading && <div className={styles.loadingContainer}><Spinner /></div>}
-      <ul>
-        {headers.map(({ id, title }) => (
-          <li key={id}>
-            <Link to={`/${id}`}>
-              <strong>{title}</strong>
-            </Link>
-          </li>
-        ))}
-      </ul>
+      {loading ? <div className={styles.loadingContainer}><Spinner /></div> : (
+        <>
+          <MultiSelect
+            clearable
+            data={allTags}
+            label='Filter recipes'
+            onChange={setSelectedTags}
+            placeholder='Select recipe tags'
+          />
+          <ul>
+            {filteredRecipeData.length ? filteredRecipeData.map(({ id, title }) => (
+              <li key={id}>
+                <Link to={`/${id}`}>
+                  <strong>{title}</strong>
+                </Link>
+              </li>
+            )) : <p>No recipes found with the selected tags.</p>}
+          </ul>
+        </>
+      )}
     </>
   )
 }
