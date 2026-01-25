@@ -19,18 +19,19 @@
     "fix:all": "npm run lint:fix && npm run format:fix"
   },
   "dependencies": {
+    "@mantine/core": "^8.3.13",
     "@vercel/analytics": "^1.6.1",
     "marked": "17.0.1",
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
-    "react-error-boundary": "^6.0.1",
-    "react-router-dom": "^7.11.0"
+    "react-error-boundary": "^6.1.0",
+    "react-router-dom": "^7.13.0"
   },
   "devDependencies": {
-    "@types/react": "^19.2.7",
+    "@types/react": "^19.2.9",
     "@types/react-dom": "^19.2.3",
-    "@typescript-eslint/eslint-plugin": "^8.51.0",
-    "@typescript-eslint/parser": "^8.51.0",
+    "@typescript-eslint/eslint-plugin": "^8.53.1",
+    "@typescript-eslint/parser": "^8.53.1",
     "@vitejs/plugin-react": "^5.1.2",
     "eslint": "^8.57.0",
     "eslint-config-prettier": "^9.1.0",
@@ -39,9 +40,10 @@
     "eslint-plugin-react": "^7.37.5",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.26",
-    "prettier": "^3.7.4",
+    "postcss": "^8.5.6",
+    "prettier": "^3.8.1",
     "typescript": "^5.9.3",
     "typescript-plugin-css-modules": "^5.2.0",
-    "vite": "^7.3.0"
+    "vite": "^7.3.1"
   }
 }

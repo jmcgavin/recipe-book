@@ -34,16 +34,16 @@ Rice
 - 2 tbsp unsalted butter
 - ½ tsp ground turmeric
 - ¼ tsp ground cumin
-- 1½ cups long-grain or Basmati rice
+- 1½ cups basmati rice
 - 2½ cups chicken broth
 - Salt and pepper
 
 ## Instructions
 
 1. Mix all sauce ingredients together.
-2. Use half the sauce to marinade the chicken for 1.5 hours. Keep the other half of the sauce for serving later. Place the chicken and sauce in the fridge.
-3. When chicken is done marinating, begin preheating oven to 400°F.
-4. Cut yellow onion in half and place flat portion on baking dish. Poke a skewer through onion and stack chicken thighs on skewer like a vertical rotisserie. Top with the remaining onion half. Bake for 1 hour 45 minutes.
+2. Use half the sauce to marinade the chicken and reserve the other half serving later. Place the chicken and the reserved sauce in the fridge.
+3. After 1.5 hours of marinating, remove the chicken from the fridge and begin preheating the oven to 400°F.
+4. Cut a yellow onion in half and place the flat portion on a baking dish. Poke a skewer through the onion and stack the chicken thighs on skewer like a vertical rotisserie. Top with the remaining onion half and bake for 1 hour 45 minutes.
 
 Rice
 

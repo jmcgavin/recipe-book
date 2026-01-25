@@ -45,7 +45,6 @@ const RecipeDetail = () => {
         }
 
         const markdown = await importFn()
-
         const tokens = marked.lexer(markdown)
         const sectionTokens = tokensToSections(tokens)
 
