@@ -7,6 +7,7 @@
 - Makes
   - 3-4 servings
 - Tags
+  - High protein
   - Main course
   - Pasta
 

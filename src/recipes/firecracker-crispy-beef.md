@@ -9,6 +9,7 @@ Beef tossed in a deliciously sweet and spicy firecracker sauce, fried with garli
 - Makes
   - 2-4 servings
 - Tags
+  - High protein
   - Main course
 
 ## Ingredients

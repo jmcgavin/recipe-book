@@ -8,6 +8,7 @@
   - 8-10 servings
 - Tags
   - Freezable
+  - High protein
   - Main course
   - Slow cooker
 

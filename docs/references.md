@@ -26,8 +26,10 @@ List of things I frequently need to reference throughout the repository.
 
 ## Tags
 
+- Breakfast
 - Dessert
 - Freezable
+- High protein
 - Main course
 - Other
 - Pasta

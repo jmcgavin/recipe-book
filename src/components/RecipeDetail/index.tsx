@@ -1,3 +1,4 @@
+import { MoveLeft } from 'lucide-react'
 import { marked } from 'marked'
 import { useEffect, useRef, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
@@ -121,7 +122,7 @@ const RecipeDetail = () => {
   return (
     <div className={styles.container}>
       <Link to='/' className={styles.backToRecipesLink}>
-        ← Back to Recipes
+        <MoveLeft size={18} /> Back to Recipes
       </Link>
       {image && <img className={styles.image} src={image} alt={id} />}
       {recipeSectionTokens.title && <RecipeTitle tokens={recipeSectionTokens.title} />}

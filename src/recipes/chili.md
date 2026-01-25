@@ -8,6 +8,7 @@
   - 6 servings
 - Tags
   - Freezable
+  - High protein
   - Main course
 
 ## Ingredients
