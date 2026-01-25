@@ -1,14 +1,14 @@
 import { type Token } from 'marked'
 import { Fragment, useMemo } from 'react'
 
-import styles from './styles.module.css'
+import styles from './styles.module.scss'
 import { extractRecipeInfoData } from '../../../utils/marked'
 
 type Props = {
   tokens: Token[]
 }
 
-const RecipeInfo = ({ tokens }: Props) => {
+export const RecipeInfo = ({ tokens }: Props) => {
   const recipeInfoData = useMemo(() => extractRecipeInfoData(tokens), [tokens])
 
   return (
@@ -22,5 +22,3 @@ const RecipeInfo = ({ tokens }: Props) => {
     </section>
   )
 }
-
-export default RecipeInfo

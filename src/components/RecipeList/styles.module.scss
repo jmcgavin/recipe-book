@@ -1,0 +1,18 @@
+.header {
+  img {
+    height: 1em;
+    width: auto;
+    vertical-align: middle;
+  }
+}
+
+.loadingContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2em 0;
+}
+
+.multiSelect {
+  margin: 32px 16px;
+}

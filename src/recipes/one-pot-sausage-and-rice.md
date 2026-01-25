@@ -24,7 +24,7 @@ A Gordon Ramsay recipe.
 - 2 cups chicken stock
 - 4 green onions, chopped
 - 2 tomatoes, chopped
-- Small bunch of flat leaf parsley, chopped 
+- Small bunch of flat leaf parsley, chopped
 
 ## Instructions
 

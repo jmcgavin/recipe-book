@@ -24,6 +24,7 @@
 - Rice (for serving)
 
 Spicy honey garlic glaze
+
 - 1 tbsp neutral oil
 - 10 cloves garlic, minced
 - 2 tbsp honey
@@ -40,6 +41,7 @@ Spicy honey garlic glaze
 4. Serve with rice.
 
 ## Notes
+
 - Dry tofu = crispy tofu. The key to crispy tofu is ensuring there is as little moisture as possible – I recommend patting it dry twice! When you remove the tofu out of the package and drain it, pat it dry with paper towels before cutting it into cubes. Once you’ve cut the tofu into 1 inch cubes, pat the cubes dry again with a paper towel before seasoning it.
 - Tossing the tofu cubes in cornstarch will help them maintain their firmness and develop a crispy coating when fried, which also helps them hold up better in the sauce. Shake off any excess cornstarch to avoid a thick, pasty coating.
 

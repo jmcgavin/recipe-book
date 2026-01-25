@@ -4,11 +4,11 @@ import { marked } from 'marked'
 import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 
-import styles from './styles.module.css'
+import styles from './styles.module.scss'
 import { RecipeFileMeta } from '../../types'
 import { extractRecipeInfoData, tokensToSections } from '../../utils/marked'
-import ErrorFallback from '../ErrorFallback'
-import Spinner from '../Spinner'
+import { ErrorFallback } from '../ErrorFallback'
+import { Spinner } from '../Spinner'
 
 const cookbookIcon = '/cookbook.svg'
 
@@ -55,13 +55,13 @@ const RecipeList = () => {
             fileMeta.push({
               id,
               title,
-              tags
+              tags,
             })
           }
         }
 
         setAllRecipeData(fileMeta)
-        setAllTags([...new Set(fileMeta.flatMap((meta) => meta.tags))])
+        setAllTags([...new Set(fileMeta.flatMap((meta) => meta.tags))].sort())
         setLoading(false)
       } catch (err) {
         setError(err instanceof Error ? err : new Error('Failed to load recipes'))
@@ -77,9 +77,7 @@ const RecipeList = () => {
       setFilteredRecipeData(allRecipeData)
     } else {
       setFilteredRecipeData(() =>
-        allRecipeData.filter((recipe) =>
-          selectedTags.every((tag) => recipe.tags.includes(tag))
-        )
+        allRecipeData.filter((recipe) => selectedTags.every((tag) => recipe.tags.includes(tag))),
       )
     }
   }, [allRecipeData, selectedTags])
@@ -91,23 +89,36 @@ const RecipeList = () => {
       <h1 className={styles.header}>
         <img src={cookbookIcon} alt='Cookbook' /> Jordan&apos;s Recipes
       </h1>
-      {loading ? <div className={styles.loadingContainer}><Spinner /></div> : (
+      {loading ? (
+        <div className={styles.loadingContainer}>
+          <Spinner />
+        </div>
+      ) : (
         <>
           <MultiSelect
+            checkIconPosition='right'
+            className={styles.multiSelect}
             clearable
             data={allTags}
             label='Filter recipes'
             onChange={setSelectedTags}
             placeholder='Select recipe tags'
+            size='md'
+            withScrollArea={false}
+            styles={{ dropdown: { maxHeight: 400, overflowY: 'auto' } }}
           />
           <ul>
-            {filteredRecipeData.length ? filteredRecipeData.map(({ id, title }) => (
-              <li key={id}>
-                <Link to={`/${id}`}>
-                  <strong>{title}</strong>
-                </Link>
-              </li>
-            )) : <p>No recipes found with the selected tags.</p>}
+            {filteredRecipeData.length ? (
+              filteredRecipeData.map(({ id, title }) => (
+                <li key={id}>
+                  <Link to={`/${id}`}>
+                    <strong>{title}</strong>
+                  </Link>
+                </li>
+              ))
+            ) : (
+              <p>No recipes found with the selected tags.</p>
+            )}
           </ul>
         </>
       )}

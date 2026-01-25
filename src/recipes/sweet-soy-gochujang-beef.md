@@ -1,5 +1,4 @@
 # Sweet Soy Gochujang Beef
-Korean-inspired braised beef.
 
 ## Info
 

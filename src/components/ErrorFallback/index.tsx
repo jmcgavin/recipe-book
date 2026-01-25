@@ -1,8 +1,8 @@
 import { Link } from 'react-router-dom'
 
-import styles from './styles.module.css'
+import styles from './styles.module.scss'
 
-const ErrorFallback = ({ error }: { error: unknown }) => {
+export const ErrorFallback = ({ error }: { error: unknown }) => {
   const message = error instanceof Error ? error.message : 'An unknown error occurred.'
 
   return (
@@ -13,5 +13,3 @@ const ErrorFallback = ({ error }: { error: unknown }) => {
     </div>
   )
 }
-
-export default ErrorFallback

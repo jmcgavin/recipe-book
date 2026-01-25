@@ -1,17 +1,15 @@
 import { type Token, marked } from 'marked'
 import { useMemo } from 'react'
 
-import styles from './styles.module.css'
+import styles from './styles.module.scss'
 
 type Props = {
   tokens: Token[]
 }
 
-const RecipeInstructions = ({ tokens }: Props) => {
+export const RecipeInstructions = ({ tokens }: Props) => {
   // console.log('Instructions tokens', tokens)
   const html = useMemo(() => marked.parser(tokens), [tokens])
 
   return <section className={styles.section} dangerouslySetInnerHTML={{ __html: html }} />
 }
-
-export default RecipeInstructions

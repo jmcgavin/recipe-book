@@ -22,6 +22,7 @@
 - Rice or naan (for serving)
 
 Curry powder
+
 - 2 tsp ground coriander
 - 2 tsp ground cumin
 - 1 tsp smoked paprika

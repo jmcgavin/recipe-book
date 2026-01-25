@@ -1,8 +1,3 @@
-import styles from './styles.module.css'
+import styles from './styles.module.scss'
 
-const Spinner = () => (
-  <span className={styles.spinner}></span>
-)
-
-export default Spinner
-  
+export const Spinner = () => <span className={styles.spinner}></span>

@@ -19,12 +19,14 @@
 - Egg noodles (or pasta of your choice)
 
 Chicken marinade
+
 - 2 tbsp soy sauce
 - 1½ tbsp sriracha
 - Juice of ½ lime
 - Salt, garlic powder, onion powder, red chili flakes to taste
 
 Peanut sauce
+
 - 100g creamy peanut butter
 - 40g soy sauce
 - 20g sriracha

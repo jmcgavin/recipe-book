@@ -25,6 +25,7 @@ Korean-inspired spicy chili garlic noodles with baby bok choy.
 - Generous pinch of toasted sesame seeds, to garnish
 
 Sauce
+
 - 2-3 tbsp gochugaru (Korean chili pepper flakes)
 - 1 tbsp sugar
 - 2 tbsp soy sauce

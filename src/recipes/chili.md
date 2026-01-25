@@ -25,7 +25,8 @@
 - 2 tsp Worcestershire sauce
 - Salt and pepper to taste
 
-Seasoning 
+Seasoning
+
 - 1 packet chili seasoning mix
 - 1 packet ranch dressing mix
 - 2 tbsp cocoa powder

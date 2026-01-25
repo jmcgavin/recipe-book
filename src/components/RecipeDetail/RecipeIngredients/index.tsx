@@ -1,6 +1,6 @@
 import { Marked, type Token } from 'marked'
 
-import styles from './styles.module.css'
+import styles from './styles.module.scss'
 
 type Props = {
   tokens: Token[]
@@ -20,11 +20,9 @@ const marked = new Marked({
   },
 })
 
-const RecipeIngredients = ({ tokens }: Props) => {
+export const RecipeIngredients = ({ tokens }: Props) => {
   // console.log('Ingredients tokens', tokens)
   const html = marked.parser(tokens)
 
   return <section className={styles.container} dangerouslySetInnerHTML={{ __html: html }} />
 }
-
-export default RecipeIngredients

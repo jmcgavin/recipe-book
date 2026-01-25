@@ -13,16 +13,12 @@ I've spent years gathering and collecting recipes from a variety of physical and
 
 ## Tech Stack
 
-- **React** - UI framework
+- **React** - Frontend framework
 - **TypeScript** - Type safety
+- **Mantine** - UI components
 - **Vite** - Build tool and development server
 - **React Router** - Routing
 - **Marked** - Markdown parsing
-- **CSS Modules** - Scoped styling
-
-## TODO
-
-- Search recipes by name/ingredients
-- Filter recipes by tags
+- **SCSS Modules** - Scoped styling
 
 Happy cooking! 🍳
