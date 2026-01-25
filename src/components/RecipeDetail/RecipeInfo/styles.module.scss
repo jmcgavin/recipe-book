@@ -1,8 +1,15 @@
 .container {
   display: grid;
   grid-template-columns: auto 1fr;
+  align-items: start;
   gap: 0.5rem 1rem;
   margin: 32px 0;
+}
+
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
 }
 
 .bold {

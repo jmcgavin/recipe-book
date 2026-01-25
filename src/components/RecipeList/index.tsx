@@ -1,10 +1,10 @@
-import { MultiSelect } from '@mantine/core'
 import '@mantine/core/styles.css'
 import { marked } from 'marked'
 import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 
 import styles from './styles.module.scss'
+import { TagSelector } from './TagSelector'
 import { RecipeFileMeta } from '../../types'
 import { extractRecipeInfoData, tokensToSections } from '../../utils/marked'
 import { ErrorFallback } from '../ErrorFallback'
@@ -95,18 +95,7 @@ const RecipeList = () => {
         </div>
       ) : (
         <>
-          <MultiSelect
-            checkIconPosition='right'
-            className={styles.multiSelect}
-            clearable
-            data={allTags}
-            label='Filter recipes'
-            onChange={setSelectedTags}
-            placeholder='Select recipe tags'
-            size='md'
-            withScrollArea={false}
-            styles={{ dropdown: { maxHeight: 400, overflowY: 'auto' } }}
-          />
+          <TagSelector data={allTags} onChange={setSelectedTags} className={styles.tagSelector} />
           <ul>
             {filteredRecipeData.length ? (
               filteredRecipeData.map(({ id, title }) => (

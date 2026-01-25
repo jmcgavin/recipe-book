@@ -8,6 +8,7 @@
   - 4-6 servings
 - Tags
   - Main course
+  - High protein
 
 ## Ingredients
 

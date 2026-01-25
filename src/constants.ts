@@ -6,3 +6,17 @@ export const RECIPE_SECTIONS = {
   NOTES: 'notes',
   REFERENCES: 'references',
 } as const
+
+export const TAGS = {
+  DESSERT: 'Dessert',
+  FREEZABLE: 'Freezable',
+  MAIN_COURSE: 'Main course',
+  OTHER: 'Other',
+  PASTA: 'Pasta',
+  SALAD: 'Salad',
+  SIDE_DISH: 'Side dish',
+  SLOW_COOKER: 'Slow cooker',
+  SOUP: 'Soup',
+  VEGAN: 'Vegan',
+  VEGETARIAN: 'Vegetarian',
+} as const
