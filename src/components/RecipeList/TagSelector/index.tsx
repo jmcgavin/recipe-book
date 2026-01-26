@@ -69,6 +69,8 @@ export const TagSelector = ({ className, data, onChange }: Props) => {
 
               <Combobox.EventsTarget>
                 <PillsInput.Field
+                  readOnly
+                  inputMode='none'
                   type='hidden'
                   onBlur={() => combobox.closeDropdown()}
                   onKeyDown={(event) => {

@@ -1,4 +1,5 @@
 import { MantineColorsTuple, MantineProvider, createTheme } from '@mantine/core'
+import '@mantine/core/styles.css'
 import { Analytics } from '@vercel/analytics/react'
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
