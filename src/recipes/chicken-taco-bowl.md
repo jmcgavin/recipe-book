@@ -1,4 +1,4 @@
-# Chicken Taco Bowls
+# Chicken Taco Bowl
 
 ## Info
 

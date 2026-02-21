@@ -1,4 +1,4 @@
-# Gochujang Chicken Rice Bowls
+# Gochujang Chicken Rice Bowl
 
 ## Info
 

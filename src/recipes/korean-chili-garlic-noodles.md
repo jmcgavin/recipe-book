@@ -1,4 +1,4 @@
-# Chili Garlic Noodles
+# Korean Chili Garlic Noodles
 
 Korean-inspired spicy chili garlic noodles with baby bok choy.
 
