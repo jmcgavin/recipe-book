@@ -7,7 +7,7 @@ Korean-inspired spicy chili garlic noodles with baby bok choy.
 - Time
   - 30 minutes
 - Makes
-  - 2 servings
+  - 4 servings
 - Tags
   - Main course
   - Pasta
@@ -45,4 +45,4 @@ Sauce
 
 ## References
 
-- https://aaronandclaire.com/spicy-chili-garlic-noodles/
+- <a href="https://aaronandclaire.com/spicy-chili-garlic-noodles/" target="_blank">https://aaronandclaire.com/spicy-chili-garlic-noodles/</a>

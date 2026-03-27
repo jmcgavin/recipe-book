@@ -42,4 +42,4 @@ Sausage, leek and fennel pasta with lemon, garlic and chilli.
 
 ## References
 
-- https://www.tiktok.com/@julius.roberts/video/7298833484989173025
+- <a href="https://www.tiktok.com/@julius.roberts/video/7298833484989173025" target="_blank">https://www.tiktok.com/@julius.roberts/video/7298833484989173025</a>

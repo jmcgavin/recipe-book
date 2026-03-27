@@ -6,16 +6,23 @@ type Props = {
   tokens: Token[]
 }
 
-// Helper function to wrap parentheses in spans
-const wrapParentheses = (text: string): string => {
-  return text.replace(/\(([^)]*)\)/g, `<span class="${styles.parentheses}">($1)</span>`)
+/**
+ * Styles the text by applying specific formatting rules:
+ * - Text within parentheses is wrapped in a span with a specific class for styling.
+ * - Text within double square brackets is converted into a link format.
+ */
+const styleText = (text: string): string => {
+  let styledText = text
+  styledText = styledText.replace(/\(([^)]*)\)/g, `<span class="${styles.parentheses}">($1)</span>`)
+  styledText = styledText.replace(/\[\[([^\]]+)\]\]/g, `<a href="/$1" target="_blank">[[\$1]]</a>`)
+  return styledText
 }
 
 // Create a marked instance just for this component
 const marked = new Marked({
   renderer: {
     text(token) {
-      return wrapParentheses(token.text)
+      return styleText(token.text)
     },
   },
 })

@@ -5,14 +5,14 @@
 - Time
   - 30 minutes
 - Makes
-  - 2-4 servings
+  - 2 servings
 - Tags
   - High protein
   - Main course
 
 ## Ingredients
 
-- 2 tbsp neutral oil
+- 1 tbsp neutral oil
 - 450g ground chicken (or turkey)
 - 2 green onions
 - ¼ yellow onion, diced
@@ -37,7 +37,7 @@ Sauce
 ## Instructions
 
 1. In a small bowl, mix together the sauce ingredients and set aside.
-2. In a wok (or pan), heat 2 tbsp of neutral oil over medium-high heat. Add the ground chicken. Spread it out and leave it in the pan for a few minutes until the chicken is nicely browned on the bottom. Flip and stir-fry until fully cooked and most of the liquid has evaporated.
+2. In a wok (or pan), heat 1 tbsp of neutral oil over medium-high heat. Add the ground chicken. Spread it out and leave it in the pan for a few minutes until the chicken is nicely browned on the bottom. Flip and stir-fry until fully cooked and most of the liquid has evaporated.
 3. Add the white parts of the green onions, onion, garlic and ginger. Sauté for 2 minutes.
 4. Once the garlic turns golden brown, add in the sauce. Give it a good stir for 2 more minutes.
 5. Add the remaining green onions, chili peppers, black pepper to taste, and sesame oil. Give it a final mix.
@@ -45,4 +45,4 @@ Sauce
 
 ## References
 
-- https://aaronandclaire.com/spicy-korean-chicken-rice-bowl/
+- <a href="https://aaronandclaire.com/spicy-korean-chicken-rice-bowl/" target="_blank">https://aaronandclaire.com/spicy-korean-chicken-rice-bowl/</a>

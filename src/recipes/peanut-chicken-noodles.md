@@ -47,4 +47,4 @@ Peanut sauce
 
 ## References
 
-- https://www.tiktok.com/@stealth_health_life/video/7258055074671349035
+- <a href="https://www.tiktok.com/@stealth_health_life/video/7258055074671349035" target="_blank">https://www.tiktok.com/@stealth_health_life/video/7258055074671349035</a>

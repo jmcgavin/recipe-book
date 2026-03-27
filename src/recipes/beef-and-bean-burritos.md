@@ -5,7 +5,7 @@
 - Time
   - 30 minutes
 - Makes
-  - 6-8 servings
+  - 5 servings
 - Tags
   - High protein
   - Main course
@@ -14,7 +14,7 @@
 
 - 1 tsp neutral oil
 - 450g ground beef
-- 3 tbsp taco seasoning, divided in 2 (see my Taco Seasoning recipe)
+- 3 tbsp taco seasoning, divided in 2 (see my [[taco-seasoning]] recipe)
 - 1 onion, chopped
 - 1 green bell pepper, chopped
 - 1 clove garlic, minced

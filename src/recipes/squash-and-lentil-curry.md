@@ -36,4 +36,4 @@
 
 ## References
 
-- https://www.ricardocuisine.com/en/recipes/6944-squash-and-lentil-curry
+- <a href="https://www.ricardocuisine.com/en/recipes/6944-squash-and-lentil-curry" target="_blank">https://www.ricardocuisine.com/en/recipes/6944-squash-and-lentil-curry</a>

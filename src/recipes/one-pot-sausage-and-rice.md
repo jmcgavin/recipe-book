@@ -40,4 +40,4 @@ A Gordon Ramsay recipe.
 
 ## References
 
-https://www.youtube.com/watch?v=FP6E3JtmsCE
+- <a href="https://www.youtube.com/watch?v=FP6E3JtmsCE" target="_blank">https://www.youtube.com/watch?v=FP6E3JtmsCE</a>

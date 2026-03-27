@@ -7,7 +7,7 @@ Beef tossed in a deliciously sweet and spicy firecracker sauce, fried with garli
 - Time
   - 30 minutes
 - Makes
-  - 2-4 servings
+  - 2 servings
 - Tags
   - High protein
   - Main course
@@ -42,4 +42,4 @@ Firecracker sauce
 
 ## References
 
-- https://www.thegoodbite.co.uk/recipes/firecracker-crispy-beef-rice-bowl/
+- <a href="https://www.thegoodbite.co.uk/recipes/firecracker-crispy-beef-rice-bowl/" target="_blank">https://www.thegoodbite.co.uk/recipes/firecracker-crispy-beef-rice-bowl/</a>

@@ -5,7 +5,7 @@
 - Time
   - 20 minutes
 - Makes
-  - 2-4 servings
+  - 4 servings
 - Tags
   - High protein
   - Main course
