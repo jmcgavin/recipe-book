@@ -1,4 +1,4 @@
-# Gochujang Chicken Rice Bowl
+# Gochujang Turkey Rice Bowl
 
 ## Info
 
@@ -12,23 +12,22 @@
   - 65g carbs
   - 23g fat
 - Tags
-  - High protein
   - Main course
 
 ## Ingredients
 
 - 1 tbsp neutral oil
-- 450g ground chicken (or turkey)
+- 450g lean ground turkey (or chicken)
 - 2 green onions
 - ¼ yellow onion, diced
 - 5 cloves garlic, finely chopped
 - 1 small knob of ginger, finely grated
 - 1-2 mild chili peppers, thinly sliced
 - Salt and pepper to taste
-- Soft-boiled eggs (optional, for serving)
-- Generous pinch of toasted sesame seeds (for serving)
 - 2 cups cooked rice
 - 1 tbsp toasted sesame oil (for garnish)
+- Soft-boiled eggs (for serving)
+- Generous pinch of toasted sesame seeds (for serving)
 
 Sauce
 
@@ -42,11 +41,11 @@ Sauce
 ## Instructions
 
 1. In a small bowl, mix together the sauce ingredients and set aside.
-2. In a wok (or pan), heat 1 tbsp of neutral oil over medium-high heat. Add the ground chicken. Spread it out and leave it in the pan for a few minutes until the chicken is nicely browned on the bottom. Flip and stir-fry until fully cooked and most of the liquid has evaporated.
+2. In a wok (or pan), heat 1 tbsp of neutral oil over medium-high heat. Add the ground turkey. Spread it out and leave it in the pan for a few minutes until the turkey is nicely browned on the bottom. Flip and stir-fry until fully cooked and most of the liquid has evaporated.
 3. Add the white parts of the green onions, onion, garlic and ginger. Sauté for 2 minutes.
 4. Once the garlic turns golden brown, add in the sauce. Give it a good stir for 2 more minutes.
 5. Add the remaining green onions, chili peppers, black pepper to taste, and sesame oil. Give it a final mix.
-6. Divide the rice into serving bowls. Add a generous amount of chicken, and soft-boiled eggs (if using). Sprinkle with sesame seeds. Enjoy!
+6. Divide the rice into serving bowls. Add a generous amount of turkey, and a couple soft-boiled eggs. Sprinkle with sesame seeds. Enjoy!
 
 ## References
 

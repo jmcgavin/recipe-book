@@ -21,7 +21,7 @@ export const RecipeInfo = ({ tokens }: Props) => {
           content = (
             <div className={styles.tags}>
               {values.map((value) => (
-                <Badge color="green" variant="light" key={value} title={value}>
+                <Badge color='green' variant='light' key={value} title={value}>
                   {value}
                 </Badge>
               ))}
@@ -31,7 +31,7 @@ export const RecipeInfo = ({ tokens }: Props) => {
           content = (
             <div className={styles.tags}>
               {values.map((value) => (
-                <Badge variant="light" key={value} title={value} leftSection={getTagIcon({ tag: value })}>
+                <Badge variant='light' key={value} title={value} leftSection={getTagIcon({ tag: value })}>
                   {value}
                 </Badge>
               ))}

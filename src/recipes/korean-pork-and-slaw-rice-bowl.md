@@ -18,7 +18,7 @@ Korean-inspired pork and veggie rice bowls.
 
 ## Ingredients
 
-- 450g ground pork (or chicken/turkey)
+- 450g lean ground pork (or turkey/chicken)
 - 400g coleslaw mix (shredded green cabbage, red cabbage and carrots)
 - 1 tbsp neutral oil
 - 6 green onions (whites only, reserve greens for garnish)

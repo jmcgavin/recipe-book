@@ -12,7 +12,6 @@
   - 55g carbs
   - 36g fat
 - Tags
-  - High protein
   - Main course
   - Pasta
 

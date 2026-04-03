@@ -12,3 +12,21 @@
   align-items: center;
   padding: 2em 0;
 }
+.filters {
+  margin: 32px 0;
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+
+  * {
+    flex: 1;
+  }
+}
+
+@media (max-width: 768px) {
+  .filters {
+    margin: 12px 0;
+    flex-direction: column;
+    gap: 16px;
+  }
+}

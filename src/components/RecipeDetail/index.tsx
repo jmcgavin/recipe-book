@@ -149,7 +149,9 @@ const RecipeDetail = () => {
       {recipeSectionTokens.title && <RecipeTitle tokens={recipeSectionTokens.title} />}
       {recipeSectionTokens.info && <RecipeInfo tokens={recipeSectionTokens.info} />}
       <div className={styles.ingredientsAndInstructions}>
-        {recipeSectionTokens.ingredients && <RecipeIngredients tokens={recipeSectionTokens.ingredients} recipeMap={recipeMap} />}
+        {recipeSectionTokens.ingredients && (
+          <RecipeIngredients tokens={recipeSectionTokens.ingredients} recipeMap={recipeMap} />
+        )}
         {recipeSectionTokens.instructions && <RecipeInstructions tokens={recipeSectionTokens.instructions} />}
       </div>
       {(!!recipeSectionTokens.notes || !!recipeSectionTokens.references) && <hr className={styles.divider} />}

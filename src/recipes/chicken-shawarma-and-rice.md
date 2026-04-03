@@ -13,7 +13,6 @@
   - 38g fat
 - Tags
   - Main course
-  - High protein
 
 ## Ingredients
 

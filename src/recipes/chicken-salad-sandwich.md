@@ -26,8 +26,8 @@
 - ¼ cup Dijon mustard
 - 2 tbsp red wine vinegar
 - Salt and pepper
-- Ciabatta bun (for serving)
-- Butter lettuce (for serving)
+- Ciabatta buns
+- Butter lettuce
 
 ## Instructions
 

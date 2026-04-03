@@ -1,6 +1,5 @@
 import { pretzel } from '@lucide/lab'
 import {
-  BicepsFlexed,
   CakeSlice,
   ChefHat,
   CookingPot,
@@ -28,8 +27,6 @@ export const getTagIcon = ({ tag, size = 16 }: Props) => {
       return <CakeSlice size={size} />
     case 'Freezable':
       return <Snowflake size={size} />
-    case 'High protein':
-      return <BicepsFlexed size={size} />
     case 'Main course':
       return <Utensils size={size} />
     case 'Other':

@@ -12,13 +12,12 @@
   - 50g carbs
   - 23g fat
 - Tags
-  - High protein
   - Main course
 
 ## Ingredients
 
 - 1 tsp neutral oil
-- 450g ground beef
+- 450g lean ground beef
 - 3 tbsp taco seasoning, divided in 2 (see my [taco-seasoning] recipe)
 - 1 onion, chopped
 - 1 green bell pepper, chopped
@@ -26,9 +25,9 @@
 - 1 can (540ml) black beans (including the liquid/aquafaba)
 - ½ cup chicken broth
 - 1 tbsp white vinegar
-- Flour tortillas (for serving)
-- Plain Greek yogurt or sour cream (for serving)
-- Shredded cheese (for serving)
+- Flour tortillas
+- Plain Greek yogurt (or sour cream)
+- Shredded cheese
 
 ## Instructions
 

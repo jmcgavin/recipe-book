@@ -12,7 +12,6 @@
   - 60g carbs
   - 12g fat
 - Tags
-  - High protein
   - Main course
 
 ## Ingredients

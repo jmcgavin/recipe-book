@@ -8,13 +8,12 @@
   - 6 servings
 - Tags
   - Freezable
-  - High protein
   - Main course
 
 ## Ingredients
 
 - 2 tbsp olive oil, divided in 2
-- 450g ground beef
+- 450g lean ground beef
 - 2 spicy Italian sausages, casings removed
 - 1 large onion, diced
 - 1 green bell pepper, diced

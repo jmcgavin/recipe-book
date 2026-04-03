@@ -13,7 +13,6 @@
   - 20g fat
 - Tags
   - Freezable
-  - High protein
   - Main course
   - Slow cooker
 

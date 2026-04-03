@@ -14,14 +14,13 @@ Beef tossed in a deliciously sweet and spicy firecracker sauce, fried with garli
   - 60g carbs
   - 22g fat
 - Tags
-  - High protein
   - Main course
 
 ## Ingredients
 
 - 1 tsp neutral oil
 - 1 onion, thinly sliced
-- 450g ground beef
+- 450g lean ground beef
 - 2 cloves garlic, minced
 - 1 tbsp fresh ginger, finely grated
 - 1 red chilli, deseeded and thinly sliced

@@ -1,3 +1,5 @@
+import { TextInput } from '@mantine/core'
+import { Search } from 'lucide-react'
 import { marked } from 'marked'
 import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
@@ -13,6 +15,7 @@ const cookbookIcon = '/cookbook.svg'
 
 const RecipeList = () => {
   const [allTags, setAllTags] = useState<string[]>([])
+  const [searchQuery, setSearchQuery] = useState<string>('')
   const [selectedTags, setSelectedTags] = useState<string[]>([])
   const [allRecipeData, setAllRecipeData] = useState<RecipeFileMeta[]>([])
   const [filteredRecipeData, setFilteredRecipeData] = useState<RecipeFileMeta[]>([])
@@ -72,14 +75,20 @@ const RecipeList = () => {
   }, [])
 
   useEffect(() => {
-    if (selectedTags.length === 0) {
-      setFilteredRecipeData(allRecipeData)
-    } else {
-      setFilteredRecipeData(() =>
-        allRecipeData.filter((recipe) => selectedTags.every((tag) => recipe.tags.includes(tag))),
-      )
+    let filtered = allRecipeData
+
+    // Filter by search query
+    if (searchQuery.trim()) {
+      filtered = filtered.filter((recipe) => recipe.title.toLowerCase().includes(searchQuery.toLowerCase()))
     }
-  }, [allRecipeData, selectedTags])
+
+    // Filter by selected tags
+    if (selectedTags.length > 0) {
+      filtered = filtered.filter((recipe) => selectedTags.every((tag) => recipe.tags.includes(tag)))
+    }
+
+    setFilteredRecipeData(filtered)
+  }, [allRecipeData, searchQuery, selectedTags])
 
   if (error) return <ErrorFallback error={error} />
 
@@ -94,7 +103,15 @@ const RecipeList = () => {
         </div>
       ) : (
         <>
-          <TagSelector data={allTags} onChange={setSelectedTags} />
+          <div className={styles.filters}>
+            <TextInput
+              leftSection={<Search />}
+              label='Search recipes by name'
+              placeholder='Enter recipe name'
+              onChange={(e) => setSearchQuery(e.currentTarget.value)}
+            />
+            <TagSelector data={allTags} onChange={setSelectedTags} />
+          </div>
           <ul>
             {filteredRecipeData.length ? (
               filteredRecipeData.map(({ id, title }) => (
@@ -105,7 +122,7 @@ const RecipeList = () => {
                 </li>
               ))
             ) : (
-              <p>No recipes found with the selected tags.</p>
+              <p>No recipes found</p>
             )}
           </ul>
         </>

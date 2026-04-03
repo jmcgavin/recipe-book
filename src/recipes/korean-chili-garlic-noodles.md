@@ -25,7 +25,7 @@ Korean-inspired spicy chili garlic noodles with baby bok choy.
 - 6 green onions (whites only, reserve greens for garnish)
 - 10-15 cloves garlic, finely chopped
 - 1 tbsp fresh ginger, finely grated
-- 450g ground pork (or chicken, beef, tofu, etc.)
+- 450g lean ground pork (or chicken, beef, tofu, etc.)
 - Black pepper, to taste
 - Generous pinch of toasted sesame seeds, to garnish
 

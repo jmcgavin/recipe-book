@@ -13,7 +13,6 @@
   - 14g fat
 - Tags
   - Main course
-  - High protein
 
 ## Ingredients
 
@@ -26,8 +25,8 @@
 - Salt and pepper to taste
 - Juice of ½ lime
 - 2 tbsp chopped cilantro or parsley
-- Flour tortillas (for serving)
-- Plain Greek yogurt or sour cream (for serving)
+- Flour tortillas
+- Plain Greek yogurt (or sour cream)
 
 ## Instructions
 
