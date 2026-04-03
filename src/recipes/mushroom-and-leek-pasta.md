@@ -39,4 +39,4 @@ A Gordon Ramsay recipe.
 
 ## References
 
-- <a href="https://www.youtube.com/watch?v=Yj7UfZR_yqA" target="_blank">https://www.youtube.com/watch?v=Yj7UfZR_yqA</a>
+- https://www.youtube.com/watch?v=Yj7UfZR_yqA

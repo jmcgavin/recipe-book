@@ -4,7 +4,7 @@ import { useEffect, useRef, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
 
 import styles from './styles.module.scss'
-import type { RecipeSectionTokens } from '../../types'
+import type { RecipeFileMeta, RecipeSectionTokens } from '../../types'
 import { tokensToSections } from '../../utils/marked'
 import { ErrorFallback } from '../ErrorFallback'
 import { RecipeInfo } from './RecipeInfo'
@@ -27,6 +27,7 @@ const RecipeDetail = () => {
     notes: null,
     references: null,
   })
+  const [recipeMap, setRecipeMap] = useState<Map<string, RecipeFileMeta>>(new Map())
   const wakeLockRef = useRef<WakeLockSentinel | null>(null)
 
   useEffect(() => {
@@ -37,6 +38,26 @@ const RecipeDetail = () => {
         }
 
         const recipeModules = import.meta.glob<string>('../../recipes/*.md', { query: '?raw', import: 'default' })
+
+        // Load all recipe metadata for cross-references
+        const metaMap = new Map<string, RecipeFileMeta>()
+        for (const [path, importFn] of Object.entries(recipeModules)) {
+          const fileId = path.replace(/^.*\/(.+)\.md$/, '$1')
+          const markdown = await importFn()
+          const tokens = marked.lexer(markdown)
+          const sectionTokens = tokensToSections(tokens)
+
+          let title = ''
+          const h1Token = sectionTokens.title?.find((token) => token.type === 'heading' && token.depth === 1)
+          if (h1Token && 'text' in h1Token && typeof h1Token.text === 'string') {
+            title = h1Token.text
+          }
+
+          if (title) {
+            metaMap.set(fileId, { id: fileId, title, tags: [] })
+          }
+        }
+        setRecipeMap(metaMap)
 
         const modulePath = `../../recipes/${id}.md`
         const importFn = recipeModules[modulePath]
@@ -128,7 +149,7 @@ const RecipeDetail = () => {
       {recipeSectionTokens.title && <RecipeTitle tokens={recipeSectionTokens.title} />}
       {recipeSectionTokens.info && <RecipeInfo tokens={recipeSectionTokens.info} />}
       <div className={styles.ingredientsAndInstructions}>
-        {recipeSectionTokens.ingredients && <RecipeIngredients tokens={recipeSectionTokens.ingredients} />}
+        {recipeSectionTokens.ingredients && <RecipeIngredients tokens={recipeSectionTokens.ingredients} recipeMap={recipeMap} />}
         {recipeSectionTokens.instructions && <RecipeInstructions tokens={recipeSectionTokens.instructions} />}
       </div>
       {(!!recipeSectionTokens.notes || !!recipeSectionTokens.references) && <hr className={styles.divider} />}

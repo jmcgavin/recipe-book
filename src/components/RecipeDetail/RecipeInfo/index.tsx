@@ -15,22 +15,39 @@ export const RecipeInfo = ({ tokens }: Props) => {
 
   return (
     <section className={styles.container}>
-      {Object.entries(recipeInfoData).map(([label, values]) => (
-        <Fragment key={label}>
-          <p className={styles.bold}>{label}</p>
-          {label === 'Tags' ? (
+      {Object.entries(recipeInfoData).map(([label, values]) => {
+        let content
+        if (label === 'Macros') {
+          content = (
             <div className={styles.tags}>
               {values.map((value) => (
-                <Badge key={value} title={value} leftSection={getTagIcon({ tag: value })}>
+                <Badge color="green" variant="light" key={value} title={value}>
                   {value}
                 </Badge>
               ))}
             </div>
-          ) : (
-            <p>{values.join(', ')}</p>
-          )}
-        </Fragment>
-      ))}
+          )
+        } else if (label === 'Tags') {
+          content = (
+            <div className={styles.tags}>
+              {values.map((value) => (
+                <Badge variant="light" key={value} title={value} leftSection={getTagIcon({ tag: value })}>
+                  {value}
+                </Badge>
+              ))}
+            </div>
+          )
+        } else {
+          content = <p>{values.join(', ')}</p>
+        }
+
+        return (
+          <Fragment key={label}>
+            <p className={styles.bold}>{label}</p>
+            {content}
+          </Fragment>
+        )
+      })}
     </section>
   )
 }

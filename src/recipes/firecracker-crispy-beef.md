@@ -47,4 +47,4 @@ Firecracker sauce
 
 ## References
 
-- <a href="https://www.thegoodbite.co.uk/recipes/firecracker-crispy-beef-rice-bowl/" target="_blank">https://www.thegoodbite.co.uk/recipes/firecracker-crispy-beef-rice-bowl/</a>
+- https://www.thegoodbite.co.uk/recipes/firecracker-crispy-beef-rice-bowl/

@@ -52,4 +52,4 @@ Spicy honey garlic glaze
 
 ## References
 
-- <a href="https://cjeatsrecipes.com/spicy-honey-garlic-tofu/" target="_blank">https://cjeatsrecipes.com/spicy-honey-garlic-tofu/</a>
+- https://cjeatsrecipes.com/spicy-honey-garlic-tofu/

@@ -50,4 +50,4 @@ Sauce
 
 ## References
 
-- <a href="https://aaronandclaire.com/spicy-korean-chicken-rice-bowl/" target="_blank">https://aaronandclaire.com/spicy-korean-chicken-rice-bowl/</a>
+- https://aaronandclaire.com/spicy-korean-chicken-rice-bowl/

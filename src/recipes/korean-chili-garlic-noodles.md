@@ -50,4 +50,4 @@ Sauce
 
 ## References
 
-- <a href="https://aaronandclaire.com/spicy-chili-garlic-noodles/" target="_blank">https://aaronandclaire.com/spicy-chili-garlic-noodles/</a>
+- https://aaronandclaire.com/spicy-chili-garlic-noodles/

@@ -40,4 +40,4 @@ Marinade
 
 ## References
 
-- <a href="https://www.cookerru.com/mayak-eggs/" target="_blank">https://www.cookerru.com/mayak-eggs/</a>
+- https://www.cookerru.com/mayak-eggs/

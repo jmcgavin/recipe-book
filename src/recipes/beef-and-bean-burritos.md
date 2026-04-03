@@ -19,7 +19,7 @@
 
 - 1 tsp neutral oil
 - 450g ground beef
-- 3 tbsp taco seasoning, divided in 2 (see my [[taco-seasoning]] recipe)
+- 3 tbsp taco seasoning, divided in 2 (see my [taco-seasoning] recipe)
 - 1 onion, chopped
 - 1 green bell pepper, chopped
 - 1 clove garlic, minced
