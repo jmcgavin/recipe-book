@@ -7,7 +7,12 @@ A Gordon Ramsay recipe.
 - Time
   - 40 minutes
 - Makes
-  - 4-6 servings
+  - 4 servings
+- Macros
+  - 650 kcal
+  - 30g protein
+  - 60g carbs
+  - 28g fat
 - Tags
   - Main course
 
@@ -19,7 +24,7 @@ A Gordon Ramsay recipe.
 - 3 cloves garlic, thinly sliced
 - 5-6 spicy Italian sausages, casing removed (any sausage will work)
 - 1 heaped tsp smoked paprika
-- 1 cup long grain uncooked rice (I use basmati)
+- 1 cup uncooked basmati rice
 - ½ cup dry white wine (for deglazing)
 - 2 cups chicken stock
 - 4 green onions, chopped

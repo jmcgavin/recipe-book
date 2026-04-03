@@ -8,6 +8,11 @@ Sausage, leek and fennel pasta with lemon, garlic and chilli.
   - 30 minutes
 - Makes
   - 4 servings
+- Macros
+  - 650 kcal
+  - 28g protein
+  - 65g carbs
+  - 28g fat
 - Tags
   - Main course
   - Pasta

@@ -5,7 +5,12 @@
 - Time
   - 6 hours
 - Makes
-  - 6-8 servings
+  - 5 servings
+- Macros
+  - 550 kcal
+  - 18g protein
+  - 85g carbs
+  - 18g fat
 - Tags
   - Freezable
   - Main course

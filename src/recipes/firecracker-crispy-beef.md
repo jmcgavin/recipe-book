@@ -8,6 +8,11 @@ Beef tossed in a deliciously sweet and spicy firecracker sauce, fried with garli
   - 30 minutes
 - Makes
   - 2 servings
+- Macros
+  - 580 kcal
+  - 38g protein
+  - 60g carbs
+  - 22g fat
 - Tags
   - High protein
   - Main course
@@ -22,8 +27,8 @@ Beef tossed in a deliciously sweet and spicy firecracker sauce, fried with garli
 - 1 red chilli, deseeded and thinly sliced
 - Sesame seeds, for garnish
 - 4 green onions, for garnish
-- Rice (for serving)
-- Broccoli (for serving)
+- 2 cups cooked rice
+- 2 cups steamed broccoli
 
 Firecracker sauce
 

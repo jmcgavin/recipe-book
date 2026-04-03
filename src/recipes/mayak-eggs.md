@@ -33,7 +33,6 @@ Marinade
 2. Add vinegar and salt to a pot of boiling water. Reduce the heat and gently place each egg into the water. Simmer for 6 minutes (or 10 minutes for hard-boiled eggs). Prepare a large bowl of ice water.
 3. When the timer goes off, immediately transfer the eggs to the ice water bath. Allow the eggs to cool completely, for at least 5-10 minutes.
 4. Gently peel the eggs and add them to the marinade. Cover tightly and store in the refrigerator overnight, or at least 6 hours.
-5. To serve, place the egg over a bed of rice and garnish with green onion, seaweed flakes, and/or sesame oil to your preference. These eggs serve as an excellent garnish over a bowl of noodles as well. Enjoy!
 
 ## Notes
 

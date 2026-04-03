@@ -5,7 +5,12 @@
 - Time
   - 4.5 hours
 - Makes
-  - 6-8 servings
+  - 6 servings
+- Macros
+  - 600 kcal
+  - 44g protein
+  - 53g carbs
+  - 20g fat
 - Tags
   - Freezable
   - High protein
@@ -19,7 +24,7 @@
 - 1 jar (480g) red enchilada sauce
 - 1 can (540ml) black beans, drained and rinsed
 - 1 can (340g) fire roasted corn
-- 1 cup uncooked jasmine rice
+- 1½ cups uncooked basmati rice
 
 Low-calorie chipotle sauce
 

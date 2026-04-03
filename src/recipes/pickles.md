@@ -53,4 +53,4 @@ Dill Pickles
 
 ## Notes
 
-- <u>These pickles are not shelf-stable</u>. But they will last for several months in the fridge.
+- These pickles are not shelf-stable. But they will last for several months in the fridge.

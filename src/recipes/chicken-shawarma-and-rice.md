@@ -5,7 +5,12 @@
 - Time
   - 4 hours
 - Makes
-  - 4-6 servings
+  - 5 servings
+- Macros
+  - 780 kcal
+  - 42g protein
+  - 68g carbs
+  - 38g fat
 - Tags
   - Main course
   - High protein
@@ -35,7 +40,7 @@ Rice
 - 2 tbsp unsalted butter
 - ½ tsp ground turmeric
 - ¼ tsp ground cumin
-- 1½ cups basmati rice
+- 1½ cups uncooked basmati rice
 - 2½ cups chicken broth
 - Salt and pepper
 

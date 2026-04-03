@@ -6,6 +6,11 @@
   - 30 minutes
 - Makes
   - 2 servings
+- Macros
+  - 600 kcal
+  - 36g protein
+  - 65g carbs
+  - 23g fat
 - Tags
   - High protein
   - Main course
@@ -22,7 +27,7 @@
 - Salt and pepper to taste
 - Soft-boiled eggs (optional, for serving)
 - Generous pinch of toasted sesame seeds (for serving)
-- Rice (for serving)
+- 2 cups cooked rice
 - 1 tbsp toasted sesame oil (for garnish)
 
 Sauce

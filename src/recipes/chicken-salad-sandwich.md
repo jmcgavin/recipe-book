@@ -5,7 +5,12 @@
 - Time
   - 20 minutes
 - Makes
-  - 4-6 servings
+  - 5 sandwiches
+- Macros
+  - 600 kcal
+  - 29g protein
+  - 58g carbs
+  - 25g fat
 - Tags
   - Main course
 

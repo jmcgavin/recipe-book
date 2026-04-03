@@ -5,7 +5,12 @@
 - Time
   - 30 minutes
 - Makes
-  - 5 servings
+  - 5 burritos
+- Macros
+  - 550 kcal
+  - 32g protein
+  - 50g carbs
+  - 23g fat
 - Tags
   - High protein
   - Main course

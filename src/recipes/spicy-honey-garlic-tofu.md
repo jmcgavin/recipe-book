@@ -5,7 +5,12 @@
 - Time
   - 30 minutes
 - Makes
-  - 2-4 servings
+  - 2 servings
+- Macros
+  - 550 kcal
+  - 21g protein
+  - 75g carbs
+  - 18g fat
 - Tags
   - Main course
   - Vegan
@@ -18,10 +23,10 @@
 - ½ tsp black pepper
 - ½ tsp garlic powder
 - ¼ cup potato starch (cornstarch is fine)
-- 3 tbsp neutral oil
+- 2 tbsp neutral oil
 - 2 scallions, chopped, for garnish
 - 1 tsp sesame seeds, for garnish
-- Rice (for serving)
+- 2 cups cooked rice
 
 Spicy honey garlic glaze
 
