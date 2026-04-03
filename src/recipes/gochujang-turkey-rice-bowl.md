@@ -25,9 +25,9 @@
 - 1-2 mild chili peppers, thinly sliced
 - Salt and pepper to taste
 - 2 cups cooked rice
-- 1 tbsp toasted sesame oil (for garnish)
+- 1 tbsp toasted sesame oil
 - Soft-boiled eggs (for serving)
-- Generous pinch of toasted sesame seeds (for serving)
+- Generous pinch of toasted sesame seeds, for garnish
 
 Sauce
 

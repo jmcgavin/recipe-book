@@ -20,14 +20,14 @@ Korean-inspired spicy chili garlic noodles with baby bok choy.
 ## Ingredients
 
 - 4 baby bok choy, cut in half (or quarters) lengthwise
-- 400g Taiwanese knife-sliced noodles (or udon, spaghetti, rice noodles, etc.)
+- 400g Taiwanese knife-sliced noodles (or udon or rice noodles)
 - 1 tbsp neutral oil
 - 6 green onions (whites only, reserve greens for garnish)
 - 10-15 cloves garlic, finely chopped
 - 1 tbsp fresh ginger, finely grated
 - 450g lean ground pork (or chicken, beef, tofu, etc.)
 - Black pepper, to taste
-- Generous pinch of toasted sesame seeds, to garnish
+- Generous pinch of toasted sesame seeds, for garnish
 
 Sauce
 
@@ -35,7 +35,7 @@ Sauce
 - 1 tbsp sugar
 - 2 tbsp soy sauce
 - 2 tbsp oyster sauce
-- 1 tbsp Shaoxing wine (or mirin, dry sherry, water, etc.)
+- 1 tbsp Shaoxing wine (or mirin)
 
 ## Instructions
 

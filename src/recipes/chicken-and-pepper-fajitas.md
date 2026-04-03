@@ -18,7 +18,7 @@
 
 - 2 boneless skinless chicken breasts, sliced into thin strips
 - 1 clove garlic, minced
-- 1½ tbsp taco seasoning (see my [taco-seasoning] recipe)
+- 1½ tbsp taco seasoning (see [taco-seasoning] recipe)
 - 2 tbsp olive oil, divided in 2
 - 2 bell peppers, thinly sliced
 - 1 onion, thinly sliced

@@ -19,7 +19,7 @@ const formatText = (text: string, recipeMap?: Map<string, RecipeFileMeta>): stri
   styledText = styledText.replace(/\[([^\]]+)\]/g, (_, recipeId: string) => {
     const recipe = recipeMap?.get(recipeId)
     const title = recipe ? recipe.title : recipeId
-    return `<a href="/${recipeId}" target="_blank">${title}</a>`
+    return `<a href="/${recipeId}">${title}</a>`
   })
   return styledText
 }

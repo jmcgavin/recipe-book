@@ -24,10 +24,10 @@ Beef tossed in a deliciously sweet and spicy firecracker sauce, fried with garli
 - 2 cloves garlic, minced
 - 1 tbsp fresh ginger, finely grated
 - 1 red chilli, deseeded and thinly sliced
-- Sesame seeds, for garnish
-- 4 green onions, for garnish
 - 2 cups cooked rice
 - 2 cups steamed broccoli
+- Sesame seeds, for garnish
+- 4 green onions, for garnish
 
 Firecracker sauce
 
