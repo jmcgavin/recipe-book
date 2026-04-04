@@ -21,7 +21,7 @@
 - 1kg chicken thighs (roughly 9 medium thighs)
 - 6 tbsp taco seasoning (see [taco-seasoning] recipe)
 - 1 jar (480g) red enchilada sauce
-- 1 can (540ml) black beans, drained and rinsed
+- 1 can (540ml) black beans, rinsed and drained
 - 1 can (340g) fire roasted corn
 - 1½ cups uncooked basmati rice
 

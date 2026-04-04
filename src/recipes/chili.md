@@ -24,7 +24,7 @@
 - 1 green bell pepper, diced
 - 1 large carrot, chopped
 - 2 cloves garlic, minced
-- 1 can (540ml) kidney beans
+- 1 can (540ml) kidney beans, rinsed and drained
 - 1 can (796ml) diced tomatoes
 - 1 can (540ml) seasoned diced tomatoes (I use Aylmer Accents with chili seasonings)
 - 2 tsp Worcestershire sauce

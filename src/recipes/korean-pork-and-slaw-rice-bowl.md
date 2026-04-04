@@ -9,10 +9,10 @@ Korean-inspired pork and veggie rice bowls.
 - Makes
   - 4 servings
 - Macros
-  - 600 kcal
-  - 32g protein
-  - 65g carbs
-  - 20g fat
+  - 555 kcal
+  - 30g protein
+  - 45g carbs
+  - 28g fat
 - Tags
   - Main course
 

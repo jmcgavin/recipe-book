@@ -112,7 +112,7 @@ const RecipeList = () => {
             />
             <TagSelector data={allTags} onChange={setSelectedTags} />
           </div>
-          <ul>
+          <ul className={styles.list}>
             {filteredRecipeData.length ? (
               filteredRecipeData.map(({ id, title }) => (
                 <li key={id}>

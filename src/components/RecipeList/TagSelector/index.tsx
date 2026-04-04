@@ -20,7 +20,6 @@ export const TagSelector = ({ data, onChange }: Props) => (
     withAlignedLabels
     withCheckIcon
     checkIconPosition='left'
-    clearable
     data={data}
     label='Filter recipes by tags'
     leftSection={<Tag />}

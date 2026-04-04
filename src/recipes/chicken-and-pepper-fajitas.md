@@ -5,12 +5,12 @@
 - Time
   - 30 minutes
 - Makes
-  - 4 servings
+  - 3 servings
 - Macros
-  - 450 kcal
-  - 24g protein
-  - 38g carbs
-  - 14g fat
+  - 385 kcal
+  - 38g protein
+  - 30g carbs
+  - 18g fat
 - Tags
   - Main course
 
