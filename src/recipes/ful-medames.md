@@ -6,6 +6,13 @@ Egyptian fava beans.
 
 - Time
   - 20 minutes
+- Makes
+  - 5 servings
+- Macros/serving
+  - 349 kcal
+  - 14g protein
+  - 32g carbs
+  - 19g fat
 - Tags
   - Side dish
   - Vegan

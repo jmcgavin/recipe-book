@@ -8,11 +8,11 @@ Korean-inspired spicy chili garlic noodles with baby bok choy.
   - 30 minutes
 - Makes
   - 4 servings
-- Macros
-  - 600 kcal
-  - 32g protein
-  - 70g carbs
-  - 20g fat
+- Macros/serving
+  - 622 kcal
+  - 41g protein
+  - 94g carbs
+  - 9g fat
 - Tags
   - Main course
   - Pasta
@@ -27,7 +27,7 @@ Korean-inspired spicy chili garlic noodles with baby bok choy.
 - 1 tbsp fresh ginger, finely grated
 - 450g lean ground pork (or chicken, beef, tofu, etc.)
 - Black pepper, to taste
-- Generous pinch of toasted sesame seeds, for garnish
+- Toasted sesame seeds, for garnish
 
 Sauce
 

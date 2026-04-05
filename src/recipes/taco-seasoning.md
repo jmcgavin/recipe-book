@@ -8,7 +8,7 @@ Basic taco/fajita seasoning.
   - 5 minutes
 - Makes
   - ~3 tbsp
-- Macros
+- Macros/serving
   - 50 kcal
   - 2g protein
   - 10g carbs

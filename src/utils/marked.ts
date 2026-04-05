@@ -92,7 +92,7 @@ export const tokensToSections = (tokens: TokensList): RecipeSectionTokens => {
 }
 
 /**
- * Extract recipe info data from into section tokens.
+ * Extract recipe info data from info section tokens.
  * @utility
  */
 export const extractRecipeInfoData = (infoSectionTokens: Token[]): Record<string, string[]> => {

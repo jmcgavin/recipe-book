@@ -6,6 +6,7 @@ import { Link } from 'react-router-dom'
 
 import styles from './styles.module.scss'
 import { TagSelector } from './TagSelector'
+import { APP_NAME } from '../../constants'
 import { RecipeFileMeta } from '../../types'
 import { extractRecipeInfoData, tokensToSections } from '../../utils/marked'
 import { ErrorFallback } from '../ErrorFallback'
@@ -94,8 +95,9 @@ const RecipeList = () => {
 
   return (
     <>
+      <title>{APP_NAME}</title>
       <h1 className={styles.header}>
-        <img src={cookbookIcon} alt='Cookbook' /> Jordan&apos;s Recipes
+        <img src={cookbookIcon} alt='Cookbook' /> {APP_NAME}
       </h1>
       {loading ? (
         <div className={styles.loadingContainer}>

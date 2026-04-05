@@ -6,11 +6,11 @@
   - 30 minutes
 - Makes
   - 3 servings
-- Macros
-  - 385 kcal
-  - 38g protein
-  - 30g carbs
-  - 18g fat
+- Macros/serving
+  - 512 kcal
+  - 35g protein
+  - 47g carbs
+  - 19g fat
 - Tags
   - Main course
 

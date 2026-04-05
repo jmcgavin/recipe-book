@@ -6,6 +6,13 @@ Korean marinated eggs.
 
 - Time
   - 25 minutes
+- Makes
+  - 6 eggs
+- Macros/serving
+  - 72 kcal
+  - 6g protein
+  - 0g carbs
+  - 5g fat
 - Tags
   - Side dish
   - Vegetarian

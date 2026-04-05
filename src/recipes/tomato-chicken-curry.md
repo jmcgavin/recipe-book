@@ -6,11 +6,11 @@
   - 20 minutes
 - Makes
   - 4 servings
-- Macros
-  - 500 kcal
-  - 38 protein
-  - 60g carbs
-  - 12g fat
+- Macros/serving
+  - 462 kcal
+  - 36g protein
+  - 59g carbs
+  - 8g fat
 - Tags
   - Main course
 

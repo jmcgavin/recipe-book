@@ -4,6 +4,13 @@
 
 - Time
   - 10 minutes
+- Makes
+  - 
+- Macros/serving
+  - 161 kcal
+  - 6g protein
+  - 14g carbs
+  - 9g fat
 - Tags
   - Side dish
   - Vegan
@@ -16,10 +23,12 @@
 - ¼ cup tahini
 - ¼ cup lemon juice
 - 1 tsp salt
+- Naan (for serving)
 
 ## Instructions
 
 1. Add all the ingredients to a blender and blend until smooth.
+2. Serve with naan.
 
 ## Notes
 

@@ -13,6 +13,7 @@ import { RecipeInstructions } from './RecipeInstructions'
 import { RecipeNotes } from './RecipeNotes'
 import { RecipeReferences } from './RecipeReferences'
 import { RecipeTitle } from './RecipeTitle'
+import { APP_NAME } from '../../constants'
 
 const RecipeDetail = () => {
   const { id } = useParams<{ id: string }>()
@@ -30,13 +31,13 @@ const RecipeDetail = () => {
   const [recipeMap, setRecipeMap] = useState<Map<string, RecipeFileMeta>>(new Map())
   const wakeLockRef = useRef<WakeLockSentinel | null>(null)
 
+  if (!id) {
+    throw new Error('No recipe id provided')
+  }
+
   useEffect(() => {
     const loadRecipe = async () => {
       try {
-        if (!id) {
-          throw new Error('No recipe id provided')
-        }
-
         const recipeModules = import.meta.glob<string>('../../recipes/*.md', { query: '?raw', import: 'default' })
 
         // Load all recipe metadata for cross-references
@@ -141,23 +142,26 @@ const RecipeDetail = () => {
   if (error) return <ErrorFallback error={error} />
 
   return (
-    <div className={styles.container}>
-      <Link to='/' className={styles.backToRecipesLink}>
-        <MoveLeft size={18} /> Back to Recipes
-      </Link>
-      {image && <img className={styles.image} src={image} alt={id} />}
-      {recipeSectionTokens.title && <RecipeTitle tokens={recipeSectionTokens.title} />}
-      {recipeSectionTokens.info && <RecipeInfo tokens={recipeSectionTokens.info} />}
-      <div className={styles.ingredientsAndInstructions}>
-        {recipeSectionTokens.ingredients && (
-          <RecipeIngredients tokens={recipeSectionTokens.ingredients} recipeMap={recipeMap} />
-        )}
-        {recipeSectionTokens.instructions && <RecipeInstructions tokens={recipeSectionTokens.instructions} />}
+    <>
+      <title>{`${APP_NAME} | ${recipeMap.get(id)?.title}`}</title>
+      <div className={styles.container}>
+        <Link to='/' className={styles.backToRecipesLink}>
+          <MoveLeft size={18} /> Back to Recipes
+        </Link>
+        {image && <img className={styles.image} src={image} alt={id} />}
+        {recipeSectionTokens.title && <RecipeTitle tokens={recipeSectionTokens.title} />}
+        {recipeSectionTokens.info && <RecipeInfo tokens={recipeSectionTokens.info} />}
+        <div className={styles.ingredientsAndInstructions}>
+          {recipeSectionTokens.ingredients && (
+            <RecipeIngredients tokens={recipeSectionTokens.ingredients} recipeMap={recipeMap} />
+          )}
+          {recipeSectionTokens.instructions && <RecipeInstructions tokens={recipeSectionTokens.instructions} />}
+        </div>
+        {(!!recipeSectionTokens.notes || !!recipeSectionTokens.references) && <hr className={styles.divider} />}
+        {recipeSectionTokens.notes && <RecipeNotes tokens={recipeSectionTokens.notes} />}
+        {recipeSectionTokens.references && <RecipeReferences tokens={recipeSectionTokens.references} />}
       </div>
-      {(!!recipeSectionTokens.notes || !!recipeSectionTokens.references) && <hr className={styles.divider} />}
-      {recipeSectionTokens.notes && <RecipeNotes tokens={recipeSectionTokens.notes} />}
-      {recipeSectionTokens.references && <RecipeReferences tokens={recipeSectionTokens.references} />}
-    </div>
+    </>
   )
 }
 

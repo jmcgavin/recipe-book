@@ -8,11 +8,11 @@ A Gordon Ramsay recipe.
   - 40 minutes
 - Makes
   - 4 servings
-- Macros
-  - 650 kcal
-  - 30g protein
-  - 60g carbs
-  - 28g fat
+- Macros/serving
+  - 701 kcal
+  - 29g protein
+  - 56g carbs
+  - 36 fat
 - Tags
   - Main course
 

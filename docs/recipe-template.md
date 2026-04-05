@@ -8,6 +8,11 @@ description
   - 30 mins
 - Makes
   - 4 servings
+- Macros/serving
+  - kcal
+  - g protein
+  - g carbs
+  - g fat
 - Tags
   - tag 1
   - tag 2

@@ -17,7 +17,7 @@ export const RecipeInfo = ({ tokens }: Props) => {
     <section className={styles.container}>
       {Object.entries(recipeInfoData).map(([label, values]) => {
         let content
-        if (label === 'Macros') {
+        if (label === 'Macros/serving') {
           content = (
             <div className={styles.tags}>
               {values.map((value) => (

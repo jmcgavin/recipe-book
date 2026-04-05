@@ -6,22 +6,22 @@
   - 30 minutes
 - Makes
   - 3 servings
-- Macros
-  - 700 kcal
-  - 36g protein
-  - 55g carbs
-  - 36g fat
+- Macros/serving
+  - 613 kcal
+  - 39g protein
+  - 63g carbs
+  - 26g fat
 - Tags
   - Main course
   - Pasta
 
 ## Ingredients
 
-- 500g chicken breast, diced (roughly 2 medium breasts)
+- 2 boneless skinless breasts
 - 1 tsp neutral oil
 - 5 green onions (whites only, reserve greens for garnish)
 - 5-10 cloves garlic, minced
-- Egg noodles (or pasta of your choice)
+- 300g egg noodles (or pasta of your choice)
 
 Chicken marinade
 

@@ -1,3 +1,5 @@
+export const APP_NAME = "Jordan's Recipes"
+
 export const RECIPE_SECTIONS = {
   TITLE: 'title',
   INFO: 'info',

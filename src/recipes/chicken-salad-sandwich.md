@@ -6,17 +6,17 @@
   - 20 minutes
 - Makes
   - 5 sandwiches
-- Macros
-  - 600 kcal
-  - 29g protein
-  - 58g carbs
-  - 25g fat
+- Macros/serving
+  - 520 kcal
+  - 30g protein
+  - 47g carbs
+  - 22g fat
 - Tags
   - Main course
 
 ## Ingredients
 
-- 3 chicken breasts
+- 3 boneless skinless chicken breasts
 - 6 slices lemon
 - 6 sprigs dill, plus 1 tbsp chopped
 - 1 green apple, chopped

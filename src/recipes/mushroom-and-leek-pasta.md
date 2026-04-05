@@ -8,11 +8,11 @@ A Gordon Ramsay recipe.
   - 30 minutes
 - Makes
   - 3 servings
-- Macros
-  - 500 kcal
-  - 14g protein
-  - 55g carbs
-  - 22g fat
+- Macros/serving
+  - 514 kcal
+  - 16g protein
+  - 53g carbs
+  - 26g fat
 - Tags
   - Main course
   - Pasta

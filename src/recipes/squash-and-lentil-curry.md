@@ -5,12 +5,12 @@
 - Time
   - 6 hours
 - Makes
-  - 5 servings
-- Macros
-  - 550 kcal
-  - 18g protein
-  - 85g carbs
-  - 18g fat
+  - 4 servings
+- Macros/serving
+  - 250 kcal
+  - 14g protein
+  - 44g carbs
+  - 3g fat
 - Tags
   - Freezable
   - Main course
@@ -25,7 +25,7 @@
 - 1 can (398ml) coconut milk
 - 1 cup dried green lentils, rinsed and drained
 - ½ cup dried red lentils, rinsed and drained
-- 2 cups peeled, seeded and diced butternut squash
+- 2 cups butternut squash, peeled, seeded and diced
 - 1 onion, chopped
 - 1 jalapeno pepper, seeded and chopped
 - 1 tsp chili powder
