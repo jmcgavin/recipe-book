@@ -14,7 +14,7 @@ Korean marinated eggs.
   - 0g carbs
   - 5g fat
 - Tags
-  - Side dish
+  - Snacks & small bites
   - Vegetarian
 
 ## Ingredients

@@ -14,7 +14,7 @@ Egyptian fava beans.
   - 32g carbs
   - 19g fat
 - Tags
-  - Side dish
+  - Snacks & small bites
   - Vegan
   - Vegetarian
 

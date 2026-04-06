@@ -5,14 +5,14 @@
 - Time
   - 10 minutes
 - Makes
-  - 
+  - 5 servings
 - Macros/serving
   - 161 kcal
   - 6g protein
   - 14g carbs
   - 9g fat
 - Tags
-  - Side dish
+  - Snacks & small bites
   - Vegan
   - Vegetarian
 

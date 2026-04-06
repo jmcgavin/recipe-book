@@ -33,7 +33,7 @@ List of things I frequently need to reference throughout the repository.
 - Other
 - Pasta
 - Salad
-- Side dish
+- Snacks & small bites
 - Slow cooker
 - Soup
 - Vegan

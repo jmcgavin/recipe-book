@@ -16,7 +16,7 @@ export const TAGS = {
   OTHER: 'Other',
   PASTA: 'Pasta',
   SALAD: 'Salad',
-  SIDE_DISH: 'Side dish',
+  SNACKS_AND_SMALL_BITES: 'Snacks & small bites',
   SLOW_COOKER: 'Slow cooker',
   SOUP: 'Soup',
   VEGAN: 'Vegan',

@@ -5,7 +5,7 @@
 - Time
   - 20 minutes
 - Tags
-  - Side dish
+  - Snacks & small bites
   - Vegan
   - Vegetarian
 

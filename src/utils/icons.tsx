@@ -35,7 +35,7 @@ export const getTagIcon = ({ tag, size = 16 }: Props) => {
       return <Wheat size={size} />
     case 'Salad':
       return <Salad size={size} />
-    case 'Side dish':
+    case 'Snacks & small bites':
       return <Icon iconNode={pretzel} size={size} />
     case 'Slow cooker':
       return <CookingPot size={size} />
