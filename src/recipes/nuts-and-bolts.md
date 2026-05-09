@@ -21,7 +21,7 @@
 - 1 tbsp Worcestershire sauce
 - 2 cups Shreddies
 - 2 cups Cheerios
-- 1 cup Cheezits 
+- 1 cup Cheezits
 - 1 cup pretzels
 - 1½ cup mixed nuts
 
