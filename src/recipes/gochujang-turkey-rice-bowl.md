@@ -17,7 +17,7 @@
 ## Ingredients
 
 - 1 tsp neutral oil
-- 450g lean ground turkey (or chicken)
+- 454g lean ground turkey (or chicken)
 - 2 green onions
 - ¼ yellow onion, diced
 - 5 cloves garlic, finely chopped

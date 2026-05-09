@@ -17,7 +17,7 @@
 ## Ingredients
 
 - 1 tsp neutral oil
-- 450g lean ground beef
+- 454g lean ground beef
 - 3 tbsp taco seasoning, divided in 2 (see [taco-seasoning] recipe)
 - 1 onion, chopped
 - 1 green bell pepper, chopped

@@ -18,7 +18,7 @@
 ## Ingredients
 
 - 2 tbsp olive oil, divided in 2
-- 450g medium ground beef
+- 454g medium ground beef
 - 2 spicy Italian sausages, casings removed
 - 1 large onion, diced
 - 1 green bell pepper, diced

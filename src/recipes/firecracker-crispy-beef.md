@@ -20,7 +20,7 @@ Beef tossed in a deliciously sweet and spicy firecracker sauce, fried with garli
 
 - 1 tsp neutral oil
 - 1 onion, thinly sliced
-- 450g lean ground beef
+- 454g lean ground beef
 - 2 cloves garlic, minced
 - 1 tbsp fresh ginger, finely grated
 - 1 red chilli, deseeded and thinly sliced
