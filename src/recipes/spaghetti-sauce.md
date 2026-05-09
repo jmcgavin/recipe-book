@@ -14,12 +14,12 @@
 - 2 tbsp olive oil
 - 454g medium ground beef
 - 1 Italian sausage, casing removed
-- 5 cloves garlic, minced
+- 6 cloves garlic, minced
 - 2 onions, diced
 - 1 can (156ml) tomato paste
 - 1 can (796ml) crushed tomatoes
 - 1 can V8 vegetable juice (or 1 can tomato sauce)
-- 2 tsp Italian seasoning
+- 1 tbsp Italian seasoning
 - 2 tsp salt
 - 1 tsp black pepper
 

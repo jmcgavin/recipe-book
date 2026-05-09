@@ -5,7 +5,7 @@
 - Time
   - 1 hour
 - Makes
-  - 7.5 cups
+  - ~7 cups
 - Tags
   - Snacks & small bites
   - Vegetarian

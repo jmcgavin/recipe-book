@@ -1,4 +1,4 @@
-# Peanut Chicken Noodles
+# Spicy Peanut Sauce Noodles
 
 ## Info
 
@@ -51,4 +51,4 @@ Peanut sauce
 
 ## References
 
-- https://www.tiktok.com/@stealth_health_life/video/7258055074671349035
+- https://www.youtube.com/shorts/E2FBn74DcPc

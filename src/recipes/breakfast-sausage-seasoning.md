@@ -8,11 +8,6 @@ The perfect ratio of herbs, spices, and brown sugar combine to make the best bre
   - 5 minutes
 - Makes
   - ~3 tbsp
-- Macros/serving
-  - 60 kcal
-  - 1g protein
-  - 12g carbs
-  - 1g fat
 - Tags
   - Other
 

@@ -24,6 +24,7 @@
 - 1 green bell pepper, diced
 - 1 large carrot, chopped
 - 2 cloves garlic, minced
+- 2 tbsp diced chipotles in adobo
 - 1 can (540ml) kidney beans, rinsed and drained
 - 1 can (796ml) diced tomatoes
 - 1 can (540ml) seasoned diced tomatoes (I use Aylmer Accents with chili seasonings)
@@ -44,7 +45,7 @@ Seasoning
 1. Heat 1 tbsp of olive oil in a large Dutch oven (or heavy-bottom pot) over medium-high heat. Add ground beef and sausage meat and season with salt and pepper. Allow the meat to sear on the bottom a little before beginning to break it apart.
 2. Once meat is fully cooked and most of the liquid has evaporated, remove the meat from the pot and set aside.
 3. Add the remaining 1 tbsp of olive oil to the pot along with the onion, bell pepper and carrot and sauté for a few minutes until vegetables begin to soften. Add garlic and cook for another minute.
-4. Add kidney beans, both cans of tomatoes and the Worcestershire sauce and bring to a simmer.
+4. Add the chipotle peppers, kidney beans, both cans of tomatoes and the Worcestershire sauce and bring to a simmer.
 5. Reduce heat to low, add the seasonings and stir to combine.
 6. Continue to simmer on low for 4 hours with the lid ajar, stirring occasionally.
 

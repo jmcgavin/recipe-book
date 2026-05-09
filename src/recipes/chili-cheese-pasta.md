@@ -37,7 +37,7 @@ With 42g of protein, 15g of fiber and less than 600 calories per serving, this i
 - ½ cup 2% Greek yogurt
 - Salt to taste
 
-Chili Seasoning
+Chili seasoning
 
 - 1 tbsp salt
 - 1½ tbsp chili powder
