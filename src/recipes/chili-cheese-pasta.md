@@ -32,9 +32,9 @@ With 42g of protein, 15g of fiber and less than 600 calories per serving, this i
 - Cilantro stems, chopped
 - 2 cups beef bone broth
 - 1½ cups water
-- 340g pasta
+- 340g pasta, uncooked
 - 1 cup sharp cheddar, shredded
-- ½ cup 2% Greek yogurt
+- ½ cup 2% plain Greek yogurt
 - Salt to taste
 
 Chili seasoning
