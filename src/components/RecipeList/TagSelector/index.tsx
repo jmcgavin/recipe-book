@@ -1,11 +1,5 @@
-import { Group, MultiSelect, MultiSelectProps, Text } from '@mantine/core'
+import { MultiSelect } from '@mantine/core'
 import { Tag } from 'lucide-react'
-
-const renderOption: MultiSelectProps['renderOption'] = ({ option }) => (
-  <Group gap='sm'>
-    <Text size='sm'>{option.value}</Text>
-  </Group>
-)
 
 type Props = {
   data: string[]
@@ -22,7 +16,6 @@ export const TagSelector = ({ data, onChange }: Props) => (
     leftSection={<Tag />}
     onChange={onChange}
     placeholder='Select recipe tags'
-    renderOption={renderOption}
     styles={{ dropdown: { maxHeight: 500, overflowY: 'auto' } }}
     withScrollArea={false}
   />

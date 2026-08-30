@@ -1,5 +1,7 @@
 # Lemon Squares
 
+Buttery shortbread topped with a bright, tangy lemon filling for the perfect balance of sweet and tart. Soft and creamy in the middle with a crisp, crumbly base.
+
 ## Info
 
 - Time

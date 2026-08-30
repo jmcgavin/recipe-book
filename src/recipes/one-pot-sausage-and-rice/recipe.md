@@ -1,6 +1,6 @@
 # One-Pot Sausage and Rice
 
-A Gordon Ramsay recipe.
+A hearty one‑pot sausage and rice recipe with spicy sausages, peppers, tomatoes and smoked paprika, ready in under 40 minutes.
 
 ## Info
 

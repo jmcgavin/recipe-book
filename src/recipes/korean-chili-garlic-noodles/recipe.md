@@ -1,6 +1,6 @@
 # Korean Chili Garlic Noodles
 
-Korean-inspired spicy chili garlic noodles with baby bok choy.
+A Korean-inspired dish with noodles tossed with savoury ground pork, loads of garlic, and a fiery gochugaru sauce. Sweet, spicy, and deeply savoury, with tender bok choy and toasted sesame to finish.
 
 ## Info
 

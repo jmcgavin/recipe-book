@@ -1,6 +1,6 @@
 # Ful Medames
 
-Egyptian fava beans.
+Creamy, earthy, and bright, this Egyptian fava bean dish combines cumin, tahini, fresh tomato, and a gentle chili kick. Scoop it up with warm naan for a simple, satisfying meal.
 
 ## Info
 

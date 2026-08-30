@@ -1,6 +1,6 @@
 # Korean Pork and Slaw Rice Bowl
 
-Korean-inspired pork and veggie rice bowls.
+Juicy ground pork and tender cabbage slaw cooked together in a sweet, spicy Korean-inspired sauce, then mixed with fluffy basmati rice. Easy, filling, and packed with garlic, ginger, and gochugaru.
 
 ## Info
 

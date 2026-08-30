@@ -1,5 +1,7 @@
 # Chicken Shawarma and Rice
 
+Juicy, marinated chicken thighs roasted until deeply browned and served over fragrant turmeric basmati rice. Finished with cool, creamy tzatziki for the perfect balance of rich, warm spices and freshness.
+
 ## Info
 
 - Time

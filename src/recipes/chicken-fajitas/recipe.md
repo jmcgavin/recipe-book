@@ -1,5 +1,7 @@
 # Chicken Fajitas
 
+Fajitas stuffed with seasoned chicken cooked with colourful bell peppers and onions until lightly charred and then finished with fresh lime and herbs.
+
 ## Info
 
 - Time

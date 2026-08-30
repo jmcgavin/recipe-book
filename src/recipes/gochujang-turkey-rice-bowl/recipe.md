@@ -1,5 +1,7 @@
 # Gochujang Turkey Rice Bowl
 
+Sweet, spicy, and savoury, this Korean-inspired rice bowl pairs juicy ground turkey with a punchy gochujang sauce, fresh ginger, and garlic. Topped with a jammy egg and toasted sesame seeds, it’s an easy bowl with plenty of flavour.
+
 ## Info
 
 - Time

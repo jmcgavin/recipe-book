@@ -1,6 +1,6 @@
 # Chili Cheese Pasta
 
-With 42g of protein, 15g of fiber and less than 600 calories per serving, this is macro-friendly comfort food you can have every day.
+A smoky, cheesy twist on classic chili, with tender beef, beans, lentils, and poblano peppers tossed with pasta in a rich, spicy sauce. Finished with sharp cheddar and creamy Greek yogurt for a hearty, comforting bowl.
 
 ## Info
 

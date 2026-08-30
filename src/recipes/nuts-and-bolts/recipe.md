@@ -1,5 +1,7 @@
 # Nuts and Bolts
 
+The perfect salty munchies for the holiday season. This snack will disappear quickly. You have been warned.
+
 ## Info
 
 - Time

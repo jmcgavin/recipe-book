@@ -1,6 +1,6 @@
 # Mayak Eggs
 
-Korean marinated eggs.
+Mayak eggs are Korean marinated eggs that are soft boiled then marinated in a tasty marinade of soy sauce, garlic, peppers, and sesame seeds.
 
 ## Info
 

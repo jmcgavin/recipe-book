@@ -1,5 +1,7 @@
 # Pickles
 
+Refrigerator pickles are quick and easy to make—no sterilizing jars or special equipment required. Perfect with burgers, sandwiches, or straight from the jar.
+
 ## Info
 
 - Time

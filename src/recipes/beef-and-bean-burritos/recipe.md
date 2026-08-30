@@ -1,5 +1,7 @@
 # Beef and Bean Burritos
 
+These hearty burritos are packed with seasoned ground beef, black beans, peppers, and onions simmered in a savoury sauce. Wrapped in warm flour tortillas and finished with Greek yogurt and shredded cheese, they make an easy, filling meal.
+
 ## Info
 
 - Time

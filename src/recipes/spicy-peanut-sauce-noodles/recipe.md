@@ -1,5 +1,7 @@
 # Spicy Peanut Sauce Noodles
 
+Tender spicy chicken and noodles tossed in a creamy peanut sauce with honey, lime, garlic, and sriracha. Sweet, savoury, and spicy with a rich peanut flavour.
+
 ## Info
 
 - Time

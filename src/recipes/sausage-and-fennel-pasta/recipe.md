@@ -1,6 +1,6 @@
 # Sausage and Fennel Pasta
 
-Sausage, leek and fennel pasta with lemon, garlic and chilli.
+Rich pork sausage, sweet fennel, and leek come together in a creamy white wine sauce with bright lemon and Parmesan. Finished with parsley and a hint of chili, it’s hearty without feeling heavy.
 
 ## Info
 

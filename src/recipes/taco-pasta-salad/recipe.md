@@ -1,5 +1,7 @@
 # Taco Pasta Salad
 
+A hearty twist on pasta salad with taco-seasoned turkey, black beans, lentils, corn, and fresh vegetables. Tossed in a creamy lime-yogurt dressing for a cool, smoky finish.
+
 ## Info
 
 - Time

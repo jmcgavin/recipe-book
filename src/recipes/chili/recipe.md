@@ -1,5 +1,7 @@
 # Chili
 
+Rich, smoky, and deeply savoury, this hearty chili gets extra depth from spicy Italian sausage, chipotles, and a touch of cocoa. Packed with beef, beans, and vegetables, it’s the kind of chili that only gets better with time.
+
 ## Info
 
 - Time

@@ -1,5 +1,7 @@
 # Lasagna
 
+Layers of rich homemade tomato sauce, creamy ricotta, and melted fresh mozzarella tucked between tender lasagna sheets. This is comfort food at its finest.
+
 ## Info
 
 - Time

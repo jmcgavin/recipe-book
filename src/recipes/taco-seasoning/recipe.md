@@ -1,6 +1,6 @@
 # Taco Seasoning
 
-Basic taco/fajita seasoning.
+A multipurpose taco seasoning. 
 
 ## Info
 
@@ -26,3 +26,7 @@ Basic taco/fajita seasoning.
 ## Instructions
 
 1. Mix all ingredients
+
+## Notes
+
+- Use ~1.5 tbsp per lb of meat (or 3 tbsp per lb for a more intense flavour)

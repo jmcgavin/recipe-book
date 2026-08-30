@@ -1,5 +1,7 @@
 # Spicy Honey Garlic Tofu
 
+Crispy tofu coated in a sticky spicy honey-garlic glaze, with plenty of gochujang heat and savoury soy. Served with steamed broccoli and rice for a satisfying sweet-and-spicy bowl.
+
 ## Info
 
 - Time

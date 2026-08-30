@@ -1,5 +1,7 @@
 # Hummus
 
+This smooth, creamy, and easy homemade hummus recipe requires only 5 ingredients.
+
 ## Info
 
 - Time

@@ -1,5 +1,7 @@
 # Squash and Lentil Curry
 
+A hearty coconut curry packed with tender butternut squash and creamy lentils in a warmly spiced tomato broth. Serve it with warm naan for an easy, comforting meal.
+
 ## Info
 
 - Time

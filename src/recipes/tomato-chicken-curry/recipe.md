@@ -1,5 +1,7 @@
 # Tomato Chicken Curry
 
+Tender chicken simmered in a rich, spiced tomato sauce with garlic, ginger, and a touch of yogurt. Warm, aromatic, and satisfying over fluffy basmati rice.
+
 ## Info
 
 - Time

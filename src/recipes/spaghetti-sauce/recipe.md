@@ -1,5 +1,7 @@
 # Spaghetti Sauce
 
+A rich, hearty tomato sauce loaded with savoury ground beef, Italian sausage, and plenty of garlic. Slow-simmered with herbs and tomato for a deep, comforting flavour that’s made for a big bowl of spaghetti.
+
 ## Info
 
 - Time

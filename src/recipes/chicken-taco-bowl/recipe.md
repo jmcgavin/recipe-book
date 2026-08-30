@@ -1,5 +1,7 @@
 # Chicken Taco Bowl
 
+A hearty taco bowl loaded with tender, smoky-spiced chicken, fluffy basmati rice, black beans, and fire-roasted corn. Drizzled with a creamy chipotle-honey sauce for a smoky, tangy kick.
+
 ## Info
 
 - Time

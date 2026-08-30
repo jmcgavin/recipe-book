@@ -1,6 +1,6 @@
 # Mushroom and Leek Pasta
 
-A Gordon Ramsay recipe.
+Earthy mushrooms and sweet leeks simmered in a creamy tarragon sauce and tossed with tender pasta. Rich and comforting, with fresh herbs cutting through the cream.
 
 ## Info
 
