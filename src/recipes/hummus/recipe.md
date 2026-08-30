@@ -32,4 +32,4 @@
 
 ## Notes
 
-- For a spicy/smoky hummus, add a couple chipotles in adobo sauce along with some of the adobo sauce.
+- For a spicy/smoky hummus, add a couple chipotles in adobo sauce.

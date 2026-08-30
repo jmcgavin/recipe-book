@@ -3,7 +3,6 @@ import { type Token } from 'marked'
 import { Fragment, useMemo } from 'react'
 
 import styles from './styles.module.scss'
-import { getTagIcon } from '../../../utils/icons'
 import { extractRecipeInfoData } from '../../../utils/marked'
 
 type Props = {
@@ -31,7 +30,7 @@ export const RecipeInfo = ({ tokens }: Props) => {
           content = (
             <div className={styles.tags}>
               {values.map((value) => (
-                <Badge variant='light' key={value} title={value} leftSection={getTagIcon({ tag: value })}>
+                <Badge variant='light' key={value} title={value}>
                   {value}
                 </Badge>
               ))}

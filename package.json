@@ -2,7 +2,7 @@
   "name": "recipe-book",
   "private": true,
   "version": "0.0.0",
-  "description": "A markdown archive of food and drink recipes!",
+  "description": "A markdown archive of my favourite food and drink recipes.",
   "author": "jmcgavin",
   "repository": "https://github.com/jmcgavin/recipe-book.git",
   "license": "MIT",
@@ -19,22 +19,21 @@
     "fix:all": "npm run lint:fix && npm run format:fix"
   },
   "dependencies": {
-    "@lucide/lab": "^0.1.2",
-    "@mantine/core": "^9.1.1",
+    "@mantine/core": "^9.5.2",
     "@vercel/analytics": "^1.6.1",
-    "lucide-react": "^1.14.0",
-    "marked": "^18.0.3",
-    "react": "^19.2.6",
-    "react-dom": "^19.2.6",
-    "react-error-boundary": "^6.1.1",
-    "react-router-dom": "^7.15.0"
+    "lucide-react": "^1.37.0",
+    "marked": "^18.0.11",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-error-boundary": "^6.1.3",
+    "react-router-dom": "^7.18.3"
   },
   "devDependencies": {
-    "@types/react": "^19.2.14",
-    "@types/react-dom": "^19.2.3",
-    "@typescript-eslint/eslint-plugin": "^8.59.2",
-    "@typescript-eslint/parser": "^8.59.2",
-    "@vitejs/plugin-react": "^6.0.1",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.5",
+    "@typescript-eslint/eslint-plugin": "^8.68.0",
+    "@typescript-eslint/parser": "^8.68.0",
+    "@vitejs/plugin-react": "^6.1.1",
     "eslint": "^8.57.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-import-resolver-typescript": "^4.4.4",
@@ -42,10 +41,10 @@
     "eslint-plugin-react": "^7.37.5",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.26",
-    "postcss": "^8.5.14",
-    "prettier": "^3.8.3",
+    "postcss": "^8.5.26",
+    "prettier": "^3.9.6",
     "typescript": "^6.0.3",
     "typescript-plugin-css-modules": "^5.2.0",
-    "vite": "^8.0.11"
+    "vite": "^8.2.2"
   }
 }

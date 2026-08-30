@@ -26,7 +26,10 @@ const RecipeList = () => {
   useEffect(() => {
     const loadRecipes = async () => {
       try {
-        const recipeModules = import.meta.glob<string>('../../recipes/*.md', { query: '?raw', import: 'default' })
+        const recipeModules = import.meta.glob<string>('../../recipes/**/recipe.md', {
+          query: '?raw',
+          import: 'default',
+        })
 
         if (Object.keys(recipeModules).length === 0) {
           throw new Error('No recipes found')
@@ -35,7 +38,7 @@ const RecipeList = () => {
         const fileMeta: RecipeFileMeta[] = []
 
         for (const [path, importFn] of Object.entries(recipeModules)) {
-          const id = path.replace(/^.*\/(.+)\.md$/, '$1')
+          const id = path.replace(/^.*\/([^/]+)\/[^/]+\.md$/, '$1')
           const markdown = await importFn()
           const tokens = marked.lexer(markdown)
           const sectionTokens = tokensToSections(tokens)

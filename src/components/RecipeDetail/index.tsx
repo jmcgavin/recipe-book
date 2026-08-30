@@ -38,12 +38,15 @@ const RecipeDetail = () => {
   useEffect(() => {
     const loadRecipe = async () => {
       try {
-        const recipeModules = import.meta.glob<string>('../../recipes/*.md', { query: '?raw', import: 'default' })
+        const recipeModules = import.meta.glob<string>('../../recipes/**/recipe.md', {
+          query: '?raw',
+          import: 'default',
+        })
 
         // Load all recipe metadata for cross-references
         const metaMap = new Map<string, RecipeFileMeta>()
         for (const [path, importFn] of Object.entries(recipeModules)) {
-          const fileId = path.replace(/^.*\/(.+)\.md$/, '$1')
+          const fileId = path.replace(/^.*\/([^/]+)\/[^/]+\.md$/, '$1')
           const markdown = await importFn()
           const tokens = marked.lexer(markdown)
           const sectionTokens = tokensToSections(tokens)
@@ -58,9 +61,10 @@ const RecipeDetail = () => {
             metaMap.set(fileId, { id: fileId, title, tags: [] })
           }
         }
+
         setRecipeMap(metaMap)
 
-        const modulePath = `../../recipes/${id}.md`
+        const modulePath = `../../recipes/${id}/recipe.md`
         const importFn = recipeModules[modulePath]
 
         if (!importFn) {
@@ -81,13 +85,13 @@ const RecipeDetail = () => {
 
     const loadImg = async () => {
       try {
-        const imageModules = import.meta.glob<string>('../../images/*', { import: 'default' })
+        const imageModules = import.meta.glob<string>('../../recipes/**/img.*', { import: 'default' })
 
         const extensions = ['jpg', 'JPG', 'jpeg', 'JPEG', 'png', 'PNG', 'gif', 'GIF', 'webp', 'WEBP']
         let imgUrl: string | null = null
 
         for (const ext of extensions) {
-          const imagePath = `../../images/${id}.${ext}`
+          const imagePath = `../../recipes/${id}/img.${ext}`
           if (imageModules[imagePath]) {
             const url = await imageModules[imagePath]()
             imgUrl = url
