@@ -1,4 +1,4 @@
-# Chicken Salad Sandwich
+# Chicken Salad Sandwiches
 
 Creamy, tangy, and crisp, this chicken salad balances juicy chicken with fresh apple, celery, and dill. Piled onto ciabatta with butter lettuce, it’s a satisfying sandwich with plenty of crunch.
 

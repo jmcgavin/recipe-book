@@ -15,6 +15,7 @@ A hearty twist on pasta salad with taco-seasoned turkey, black beans, lentils, c
   - 14g fat
 - Tags
   - Main course
+  - Pasta
 
 ## Ingredients
 

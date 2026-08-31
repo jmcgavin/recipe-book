@@ -1,6 +1,6 @@
 # Taco Seasoning
 
-A multipurpose taco seasoning. 
+A multipurpose taco seasoning.
 
 ## Info
 

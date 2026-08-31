@@ -8,7 +8,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom'
 
 import './app.scss'
 import { ErrorFallback } from './components/ErrorFallback'
-import RecipeDetail from './components/RecipeDetail'
+import RecipeDetails from './components/RecipeDetails'
 import RecipeList from './components/RecipeList'
 
 const blue: MantineColorsTuple = [
@@ -40,7 +40,7 @@ createRoot(document.getElementById('root')!).render(
         <BrowserRouter>
           <Routes>
             <Route path='/' element={<RecipeList />} />
-            <Route path='/:id' element={<RecipeDetail />} />
+            <Route path='/:id' element={<RecipeDetails />} />
           </Routes>
         </BrowserRouter>
       </ErrorBoundary>

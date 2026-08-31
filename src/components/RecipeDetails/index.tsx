@@ -14,8 +14,9 @@ import { RecipeNotes } from './RecipeNotes'
 import { RecipeReferences } from './RecipeReferences'
 import { RecipeTitle } from './RecipeTitle'
 import { APP_NAME } from '../../constants'
+import { Spinner } from '../Spinner'
 
-const RecipeDetail = () => {
+const RecipeDetails = () => {
   const { id } = useParams<{ id: string }>()
   const [image, setImage] = useState<string | null>(null)
   const [error, setError] = useState<Error | null>(null)
@@ -142,7 +143,13 @@ const RecipeDetail = () => {
     }
   }, [])
 
-  if (loading) return <>Loading...</>
+  if (loading)
+    return (
+      <div className={styles.loadingContainer}>
+        <Spinner />
+      </div>
+    )
+
   if (error) return <ErrorFallback error={error} />
 
   return (
@@ -150,11 +157,12 @@ const RecipeDetail = () => {
       <title>{`${APP_NAME} | ${recipeMap.get(id)?.title}`}</title>
       <div className={styles.container}>
         <Link to='/' className={styles.backToRecipesLink}>
-          <MoveLeft size={18} /> Back to Recipes
+          <MoveLeft size={18} /> Back to Recipe List
         </Link>
         {image && <img className={styles.image} src={image} alt={id} />}
         {recipeSectionTokens.title && <RecipeTitle tokens={recipeSectionTokens.title} />}
         {recipeSectionTokens.info && <RecipeInfo tokens={recipeSectionTokens.info} />}
+        <hr className={styles.divider} />
         <div className={styles.ingredientsAndInstructions}>
           {recipeSectionTokens.ingredients && (
             <RecipeIngredients tokens={recipeSectionTokens.ingredients} recipeMap={recipeMap} />
@@ -169,4 +177,4 @@ const RecipeDetail = () => {
   )
 }
 
-export default RecipeDetail
+export default RecipeDetails
