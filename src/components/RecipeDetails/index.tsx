@@ -3,7 +3,8 @@ import { marked } from 'marked'
 import { useEffect, useRef, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
 
-import styles from './styles.module.scss'
+import { APP_NAME } from '../../constants'
+import { useLoading } from '../../providers/LoadingProvider'
 import type { RecipeFileMeta, RecipeSectionTokens } from '../../types'
 import { tokensToSections } from '../../utils/marked'
 import { ErrorFallback } from '../ErrorFallback'
@@ -13,14 +14,12 @@ import { RecipeInstructions } from './RecipeInstructions'
 import { RecipeNotes } from './RecipeNotes'
 import { RecipeReferences } from './RecipeReferences'
 import { RecipeTitle } from './RecipeTitle'
-import { APP_NAME } from '../../constants'
-import { Spinner } from '../Spinner'
+import styles from './styles.module.scss'
 
 const RecipeDetails = () => {
   const { id } = useParams<{ id: string }>()
   const [image, setImage] = useState<string | null>(null)
   const [error, setError] = useState<Error | null>(null)
-  const [loading, setLoading] = useState(true)
   const [recipeSectionTokens, setRecipeSectionTokens] = useState<RecipeSectionTokens>({
     title: null,
     info: null,
@@ -31,12 +30,15 @@ const RecipeDetails = () => {
   })
   const [recipeMap, setRecipeMap] = useState<Map<string, RecipeFileMeta>>(new Map())
   const wakeLockRef = useRef<WakeLockSentinel | null>(null)
+  const { trackLoading } = useLoading()
 
   if (!id) {
     throw new Error('No recipe id provided')
   }
 
   useEffect(() => {
+    setError(null)
+
     const loadRecipe = async () => {
       try {
         const recipeModules = import.meta.glob<string>('../../recipes/**/recipe.md', {
@@ -79,8 +81,6 @@ const RecipeDetails = () => {
         setRecipeSectionTokens(sectionTokens)
       } catch (err) {
         setError(err instanceof Error ? err : new Error('Failed to load recipe'))
-      } finally {
-        setLoading(false)
       }
     }
 
@@ -109,10 +109,10 @@ const RecipeDetails = () => {
     }
 
     // eslint-disable-next-line @typescript-eslint/no-floating-promises
-    loadRecipe()
+    trackLoading(loadRecipe)
     // eslint-disable-next-line @typescript-eslint/no-floating-promises
-    loadImg()
-  }, [id])
+    trackLoading(loadImg)
+  }, [id, trackLoading])
 
   useEffect(() => {
     const requestWakeLock = async () => {
@@ -142,13 +142,6 @@ const RecipeDetails = () => {
       }
     }
   }, [])
-
-  if (loading)
-    return (
-      <div className={styles.loadingContainer}>
-        <Spinner />
-      </div>
-    )
 
   if (error) return <ErrorFallback error={error} />
 

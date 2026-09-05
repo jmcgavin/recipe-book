@@ -7,10 +7,10 @@ import { Link } from 'react-router-dom'
 import styles from './styles.module.scss'
 import { TagSelector } from './TagSelector'
 import { APP_NAME } from '../../constants'
+import { useLoading } from '../../providers/LoadingProvider'
 import { RecipeFileMeta } from '../../types'
 import { extractRecipeInfoData, tokensToSections } from '../../utils/marked'
 import { ErrorFallback } from '../ErrorFallback'
-import { Spinner } from '../Spinner'
 
 const cookbookIcon = '/cookbook.svg'
 
@@ -21,7 +21,7 @@ const RecipeList = () => {
   const [allRecipeData, setAllRecipeData] = useState<RecipeFileMeta[]>([])
   const [filteredRecipeData, setFilteredRecipeData] = useState<RecipeFileMeta[]>([])
   const [error, setError] = useState<Error | null>(null)
-  const [loading, setLoading] = useState<boolean>(true)
+  const { trackLoading } = useLoading()
 
   useEffect(() => {
     const loadRecipes = async () => {
@@ -68,15 +68,14 @@ const RecipeList = () => {
 
         setAllRecipeData(fileMeta)
         setAllTags([...new Set(fileMeta.flatMap((meta) => meta.tags))].sort())
-        setLoading(false)
       } catch (err) {
         setError(err instanceof Error ? err : new Error('Failed to load recipes'))
       }
     }
 
     // eslint-disable-next-line @typescript-eslint/no-floating-promises
-    loadRecipes()
-  }, [])
+    trackLoading(loadRecipes)
+  }, [trackLoading])
 
   useEffect(() => {
     let filtered = allRecipeData
@@ -102,36 +101,28 @@ const RecipeList = () => {
       <h1 className={styles.header}>
         <img src={cookbookIcon} alt='Cookbook' /> {APP_NAME}
       </h1>
-      {loading ? (
-        <div className={styles.loadingContainer}>
-          <Spinner />
-        </div>
-      ) : (
-        <>
-          <div className={styles.filters}>
-            <TextInput
-              leftSection={<Search />}
-              label='Search recipes by name'
-              placeholder='Enter recipe name'
-              onChange={(e) => setSearchQuery(e.currentTarget.value)}
-            />
-            <TagSelector data={allTags} onChange={setSelectedTags} />
-          </div>
-          <ul className={styles.list}>
-            {filteredRecipeData.length ? (
-              filteredRecipeData.map(({ id, title }) => (
-                <li key={id}>
-                  <Link to={`/${id}`}>
-                    <strong>{title}</strong>
-                  </Link>
-                </li>
-              ))
-            ) : (
-              <p>No recipes found</p>
-            )}
-          </ul>
-        </>
-      )}
+      <div className={styles.filters}>
+        <TextInput
+          leftSection={<Search />}
+          label='Search recipes by name'
+          placeholder='Enter recipe name'
+          onChange={(e) => setSearchQuery(e.currentTarget.value)}
+        />
+        <TagSelector data={allTags} onChange={setSelectedTags} />
+      </div>
+      <ul className={styles.list}>
+        {filteredRecipeData.length ? (
+          filteredRecipeData.map(({ id, title }) => (
+            <li key={id}>
+              <Link to={`/${id}`}>
+                <strong>{title}</strong>
+              </Link>
+            </li>
+          ))
+        ) : (
+          <p>No recipes found</p>
+        )}
+      </ul>
     </>
   )
 }

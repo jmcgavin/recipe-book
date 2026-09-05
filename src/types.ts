@@ -2,6 +2,8 @@ import { type Token } from 'marked'
 
 import { RECIPE_SECTIONS } from './constants'
 
+export type LoadingAction = { type: 'start' } | { type: 'finish' }
+
 export type RecipeSectionTokens = {
   [RECIPE_SECTIONS.TITLE]: Token[] | null
   [RECIPE_SECTIONS.INFO]: Token[] | null
