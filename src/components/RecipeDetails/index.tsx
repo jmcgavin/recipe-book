@@ -15,6 +15,7 @@ import { RecipeNotes } from './RecipeNotes'
 import { RecipeReferences } from './RecipeReferences'
 import { RecipeTitle } from './RecipeTitle'
 import styles from './styles.module.scss'
+import { LoadingIndicator } from '../LoadingIndicator'
 
 const RecipeDetails = () => {
   const { id } = useParams<{ id: string }>()
@@ -30,7 +31,7 @@ const RecipeDetails = () => {
   })
   const [recipeMap, setRecipeMap] = useState<Map<string, RecipeFileMeta>>(new Map())
   const wakeLockRef = useRef<WakeLockSentinel | null>(null)
-  const { trackLoading } = useLoading()
+  const { isLoading, trackLoading } = useLoading()
 
   if (!id) {
     throw new Error('No recipe id provided')
@@ -144,6 +145,10 @@ const RecipeDetails = () => {
   }, [])
 
   if (error) return <ErrorFallback error={error} />
+
+  if (isLoading) {
+    return <LoadingIndicator message="Loading recipe..." />
+  }
 
   return (
     <>

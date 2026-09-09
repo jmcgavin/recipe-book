@@ -11,6 +11,7 @@ import { useLoading } from '../../providers/LoadingProvider'
 import { RecipeFileMeta } from '../../types'
 import { extractRecipeInfoData, tokensToSections } from '../../utils/marked'
 import { ErrorFallback } from '../ErrorFallback'
+import { LoadingIndicator } from '../LoadingIndicator'
 
 const cookbookIcon = '/cookbook.svg'
 
@@ -21,7 +22,7 @@ const RecipeList = () => {
   const [allRecipeData, setAllRecipeData] = useState<RecipeFileMeta[]>([])
   const [filteredRecipeData, setFilteredRecipeData] = useState<RecipeFileMeta[]>([])
   const [error, setError] = useState<Error | null>(null)
-  const { trackLoading } = useLoading()
+  const { isLoading, trackLoading } = useLoading()
 
   useEffect(() => {
     const loadRecipes = async () => {
@@ -111,7 +112,7 @@ const RecipeList = () => {
         <TagSelector data={allTags} onChange={setSelectedTags} />
       </div>
       <ul className={styles.list}>
-        {filteredRecipeData.length ? (
+        {isLoading ? (<LoadingIndicator message="Loading recipes..." />) : filteredRecipeData.length ? (
           filteredRecipeData.map(({ id, title }) => (
             <li key={id}>
               <Link to={`/${id}`}>

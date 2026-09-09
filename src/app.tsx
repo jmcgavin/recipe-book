@@ -8,7 +8,6 @@ import { BrowserRouter, Route, Routes } from 'react-router'
 
 import './app.scss'
 import { ErrorFallback } from './components/ErrorFallback'
-import { GlobalLoadingIndicator } from './components/GlobalLoadingIndicator'
 import RecipeDetails from './components/RecipeDetails'
 import RecipeList from './components/RecipeList'
 import { LoadingProvider } from './providers/LoadingProvider'
@@ -41,7 +40,6 @@ createRoot(document.getElementById('root')!).render(
         <LoadingProvider>
           <Analytics />
           <BrowserRouter>
-            <GlobalLoadingIndicator />
             <Routes>
               <Route path='/' element={<RecipeList />} />
               <Route path='/:id' element={<RecipeDetails />} />
