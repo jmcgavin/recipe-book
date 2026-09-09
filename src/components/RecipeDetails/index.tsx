@@ -1,7 +1,7 @@
 import { MoveLeft } from 'lucide-react'
 import { marked } from 'marked'
 import { useEffect, useRef, useState } from 'react'
-import { Link, useParams } from 'react-router-dom'
+import { Link, useParams } from 'react-router'
 
 import { APP_NAME } from '../../constants'
 import { useLoading } from '../../providers/LoadingProvider'

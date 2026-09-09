@@ -2,7 +2,7 @@ import { TextInput } from '@mantine/core'
 import { Search } from 'lucide-react'
 import { marked } from 'marked'
 import { useEffect, useState } from 'react'
-import { Link } from 'react-router-dom'
+import { Link } from 'react-router'
 
 import styles from './styles.module.scss'
 import { TagSelector } from './TagSelector'
