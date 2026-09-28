@@ -9,7 +9,7 @@ The perfect ratio of herbs, spices, and brown sugar combine to make the best bre
 - Makes
   - ~3 tbsp
 - Tags
-  - Other
+  - Sauces & seasonings
 
 ## Ingredients
 

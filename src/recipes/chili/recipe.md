@@ -47,12 +47,7 @@ Seasoning
 1. Heat 1 tbsp of olive oil in a large Dutch oven (or heavy-bottom pot) over medium-high heat. Add ground beef and sausage meat and season with salt and pepper. Allow the meat to sear on the bottom a little before beginning to break it apart.
 2. Once meat is fully cooked and most of the liquid has evaporated, remove the meat from the pot and set aside.
 3. Add the remaining 1 tbsp of olive oil to the pot along with the onion, bell pepper and carrot and sauté for a few minutes until vegetables begin to soften. Add garlic and cook for another minute.
-4. Add the chipotle peppers, kidney beans, both cans of tomatoes and the Worcestershire sauce and bring to a simmer.
-5. Reduce heat to low, add the seasonings and stir to combine.
-6. Continue to simmer on low for 4 hours with the lid ajar, stirring occasionally.
-
-## Notes
-
-- If chili is still too liquidy after 4 hours of simmering, remove the lid fully and continue to simmer until chili reaches your desired consistency.
-- For spicier chili, add 1 chopped jalapeno pepper with the other vegetables.
-  - You can also add cayenne powder to taste.
+4. Add the chipotle peppers, kidney beans, both cans of tomatoes, Worcestershire sauce and the seasonings.
+5. Bring to a simmer then reduce heat to low, return the meat to the pot and stir to combine.
+6. Continue to simmer on low for 3-4 hours with the lid ajar, stirring occasionally.
+7. If chili is still too liquidy after 4 hours of simmering, remove the lid fully and continue to simmer until chili reaches your desired consistency.

@@ -9,7 +9,7 @@ A rich, hearty tomato sauce loaded with savoury ground beef, Italian sausage, an
 - Makes
   - ~7 cups
 - Tags
-  - Other
+  - Sauces & seasonings
 
 ## Ingredients
 

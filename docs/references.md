@@ -30,9 +30,9 @@ List of things I frequently need to reference throughout the repository.
 - Dessert
 - Freezable
 - Main course
-- Other
 - Pasta
 - Salad
+- Sauces & seasonings
 - Snacks & small bites
 - Slow cooker
 - Soup

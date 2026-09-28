@@ -24,6 +24,9 @@ const RecipeList = () => {
   const [error, setError] = useState<Error | null>(null)
   const { isLoading, trackLoading } = useLoading()
 
+  /**
+   * Loads all recipes from the filesystem
+   */
   useEffect(() => {
     const loadRecipes = async () => {
       try {
@@ -78,12 +81,15 @@ const RecipeList = () => {
     trackLoading(loadRecipes)
   }, [trackLoading])
 
+  /**
+   * Filters the list of recipes based on the search query and selected tags
+   */
   useEffect(() => {
     let filtered = allRecipeData
 
     // Filter by search query
     if (searchQuery.trim()) {
-      filtered = filtered.filter((recipe) => recipe.title.toLowerCase().includes(searchQuery.toLowerCase()))
+      filtered = filtered.filter((recipe) => recipe.title.toLowerCase().includes(searchQuery.trim().toLowerCase()))
     }
 
     // Filter by selected tags

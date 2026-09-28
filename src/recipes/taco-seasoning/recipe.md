@@ -1,6 +1,6 @@
 # Taco Seasoning
 
-A multipurpose taco seasoning.
+A general purpose taco seasoning.
 
 ## Info
 
@@ -9,7 +9,7 @@ A multipurpose taco seasoning.
 - Makes
   - ~3 tbsp
 - Tags
-  - Other
+  - Sauces & seasonings
 
 ## Ingredients
 
@@ -29,4 +29,4 @@ A multipurpose taco seasoning.
 
 ## Notes
 
-- Use ~1.5 tbsp per lb of meat (or 3 tbsp per lb for a more intense flavour)
+- Use ~1½-3 tbsp per lb of meat
