@@ -23,6 +23,9 @@ List of things I frequently need to reference throughout the repository.
 - **Pound**: lb
 - **Tablespoon**: tbsp
 - **Teaspoon**: tsp
+- **Inch**: "
+- **Minutes**: mins
+- **Hours**: hours
 
 ## Tags
 

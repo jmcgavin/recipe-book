@@ -50,7 +50,7 @@ Rice
 1. Mix all sauce ingredients together.
 2. Use half the sauce to marinade the chicken and reserve the other half serving later. Place the chicken and the reserved sauce in the fridge.
 3. After 1.5 hours of marinating, remove the chicken from the fridge and begin preheating the oven to 400°F.
-4. Cut a yellow onion in half and place the flat portion on a baking dish. Poke a skewer through the onion and stack the chicken thighs on skewer like a vertical rotisserie. Top with the remaining onion half and bake for 1 hour 45 minutes.
+4. Cut a yellow onion in half and place the flat portion on a baking dish. Poke a skewer through the onion and stack the chicken thighs on skewer like a vertical rotisserie. Top with the remaining onion half and bake for 1 hour 45 mins.
 
 Rice
 

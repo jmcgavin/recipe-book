@@ -15,7 +15,6 @@ Crispy tofu coated in a sticky spicy honey-garlic glaze, with plenty of gochujan
   - 22g fat
 - Tags
   - Main course
-  - Vegan
   - Vegetarian
 
 ## Ingredients
